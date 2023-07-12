@@ -1,0 +1,36 @@
+.filter {
+  position: fixed;
+  width: 500px;
+  height: 80%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 100px;
+  border: 1px solid black;
+  background-color: white;
+  /* left: -530px; */
+  left: 0;
+  transition: left 0.5s ease-in-out;
+  z-index: 999;
+}
+
+.hideFilter {
+  left: -530px;
+}
+
+.searchBar {
+  display: flex;
+  flex-direction: row;
+}
+
+.gearTypes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 1px;
+}
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(7, 1fr);
+  gap: 1px;
+}

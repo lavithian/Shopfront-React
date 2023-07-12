@@ -1,0 +1,49 @@
+.showItem {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  width: 1200px;
+  height: 600px;
+  background-color: purple;
+  border: 5px solid white;
+  border-radius: 25px;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: repeat(4, 1fr);
+  grid-template-areas:
+  'image name name'
+  'image type brand'
+  'image abilities abilities'
+  'price button button';
+  align-items: center;
+  justify-items: center;
+}
+
+.itemImage {
+  grid-area: image;
+  align-self: center;
+  justify-self: center;
+}
+
+.itemName {
+  grid-area: name;
+}
+
+.itemType {
+  grid-area: type;
+}
+
+.itemBrand {
+  grid-area: brand;
+}
+
+.itemAbilities {
+  grid-area: abilities;
+}
+
+.itemPrice {
+  grid-area: price;
+}
+
+.purchaseButton {
+  grid-area: button;
+}

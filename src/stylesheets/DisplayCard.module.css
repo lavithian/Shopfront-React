@@ -1,0 +1,40 @@
+:border {
+  --border: 1px solid black;
+}
+
+.displayContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 6fr;
+  column-gap: 1px;
+  align-items: center;
+  justify-items: center;
+  margin: 10px;
+  width: 258px;
+  height: 308px;
+}
+
+img {
+  position: inherit;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.displayImage {
+  grid-row: span 1;
+  grid-column: span 2;
+  border: 1px solid black;
+}
+
+.itemName {
+  grid-row: 2 / 2;
+  border: 1px solid black;
+
+}
+
+.itemPrice {
+  grid-row: 2 / 2;
+  border: 1px solid black;
+}
