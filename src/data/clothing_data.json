@@ -1,0 +1,1358 @@
+[
+ {
+   "Name": "Airflow_&_Hustle_Jacket",
+   "Brand": "Forge",
+   "Price": "11300",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Aloha_Shirt",
+   "Brand": "Forge",
+   "Price": "700",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Anchor_Life_Vest",
+   "Brand": "Grizzco",
+   "Price": "0",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Anchor_Sweat",
+   "Brand": "SquidForce",
+   "Price": "2800",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Annaki_Anchored_Coat",
+   "Brand": "Annaki",
+   "Price": "12000",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Annaki_Blue_Cuff",
+   "Brand": "Annaki",
+   "Price": "4800",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Annaki_Bracelet_Tee",
+   "Brand": "Annaki",
+   "Price": "8000",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Annaki_Choker_Tee",
+   "Brand": "Annaki",
+   "Price": "4000",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Annaki_Drive_Tee",
+   "Brand": "Annaki",
+   "Price": "5500",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Annaki_Flannel_Hoodie",
+   "Brand": "Annaki",
+   "Price": "9999",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Annaki_Polpo-Pic_Tank",
+   "Brand": "Annaki",
+   "Price": "6660",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Apex_Sweater",
+   "Brand": "Krak-On",
+   "Price": "9600",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Apple_Ringer",
+   "Brand": "Zink",
+   "Price": "1000",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Arctic_Monster_Parka",
+   "Brand": "Barazushi",
+   "Price": "12000",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Armor_Jacket_Replica",
+   "Brand": "Cuttlegear",
+   "Price": "0",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Astro_Wear",
+   "Brand": "Grizzco",
+   "Price": "0",
+   "Ability": "Random"
+ },
+ {
+   "Name": "B-ball_Jersey_(Away)",
+   "Brand": "Zink",
+   "Price": "800",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "B-ball_Jersey_(Home)",
+   "Brand": "Zink",
+   "Price": "2300",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Baby-Jelly_Shirt",
+   "Brand": "Splash_Mob",
+   "Price": "1350",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Barazushi_Anorak",
+   "Brand": "Barazushi",
+   "Price": "5200",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Barazushi_Black_Tee",
+   "Brand": "Barazushi",
+   "Price": "720",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Barazushi_Rice_Tee",
+   "Brand": "Barazushi",
+   "Price": "720",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Barazushi_Sakura_Tee",
+   "Brand": "Barazushi",
+   "Price": "1200",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Barazushi_Tuff_Duffel",
+   "Brand": "Barazushi",
+   "Price": "12000",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Barazushi_Wrap",
+   "Brand": "Barazushi",
+   "Price": "7200",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Base_White_Button_Up",
+   "Brand": "Splash_Mob",
+   "Price": "9999",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Baseball_Jersey",
+   "Brand": "Firefin",
+   "Price": "10000",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Basic_Tee",
+   "Brand": "SquidForce",
+   "Price": "300",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Berry_BlobMob_Tee",
+   "Brand": "Emberz",
+   "Price": "1050",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Berry_Ski_Jacket",
+   "Brand": "Inkline",
+   "Price": "3900",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Black_8-Bit_FishFry",
+   "Brand": "Firefin",
+   "Price": "600",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Black_Anchor_Tee",
+   "Brand": "SquidForce",
+   "Price": "2800",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Black_Baseball_LS",
+   "Brand": "Rockenberg",
+   "Price": "800",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Black_Inky_Rider",
+   "Brand": "Rockenberg",
+   "Price": "12100",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Black_Layered_LS",
+   "Brand": "SquidForce",
+   "Price": "500",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Black_LS",
+   "Brand": "Zekko",
+   "Price": "3000",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Black_Polo",
+   "Brand": "Zekko",
+   "Price": "500",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Black_Ranger_Vest",
+   "Brand": "Inkline",
+   "Price": "6000",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Black_Squideye",
+   "Brand": "Tentatek",
+   "Price": "500",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Black_Tee",
+   "Brand": "SquidForce",
+   "Price": "400",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Black-Belt_Gi",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Blue_Peaks_Tee",
+   "Brand": "Inkline",
+   "Price": "400",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Blue_Retro_Tee",
+   "Brand": "Tentatek",
+   "Price": "2880",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Blue_Sailor_Suit",
+   "Brand": "Forge",
+   "Price": "11000",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Business_Animal",
+   "Brand": "Emberz",
+   "Price": "2500",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Button-Clown_Shirt",
+   "Brand": "Emberz",
+   "Price": "6300",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Camo_Layered_LS",
+   "Brand": "SquidForce",
+   "Price": "600",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Camo_Zip_Hoodie",
+   "Brand": "Firefin",
+   "Price": "9000",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Carnivore_Tee",
+   "Brand": "Firefin",
+   "Price": "500",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Chaos_Commander_Suit",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Chili_Octo_Aloha",
+   "Brand": "Krak-On",
+   "Price": "4850",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Choco_Layered_LS",
+   "Brand": "Takoroka",
+   "Price": "1400",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Cream_Tundra_Fleece",
+   "Brand": "Inkline",
+   "Price": "3500",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Crimson_Parashooter",
+   "Brand": "Annaki",
+   "Price": "9200",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Crispy_Crustume",
+   "Brand": "SquidForce",
+   "Price": "0",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Cycle_King_Jersey",
+   "Brand": "Tentatek",
+   "Price": "8900",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Cycling_Shirt",
+   "Brand": "Zink",
+   "Price": "2900",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Dark_Bomber_Jacket",
+   "Brand": "Toni_Kensa",
+   "Price": "12800",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Dark_Urban_Vest",
+   "Brand": "Firefin",
+   "Price": "10000",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Distressed_Vest",
+   "Brand": "Toni_Kensa",
+   "Price": "11800",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Duskwave_Tee",
+   "Brand": "Skalop",
+   "Price": "880",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Dustcloud_Hoodie",
+   "Brand": "Z+F",
+   "Price": "8920",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Dusty_Field_Jacket",
+   "Brand": "Inkline",
+   "Price": "3400",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Eelzebub_Tee",
+   "Brand": "Skalop",
+   "Price": "2100",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Enchanted_Robe_A",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Enchanted_Robe_B",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Fancyfish_Stitch",
+   "Brand": "Krak-On",
+   "Price": "4600",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Fashion_Splash_Shirt",
+   "Brand": "Toni_Kensa",
+   "Price": "9750",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "FC_Albacore",
+   "Brand": "Enperry",
+   "Price": "1200",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Firefin_Navy_Sweat",
+   "Brand": "Firefin",
+   "Price": "2500",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Firewave_Tee",
+   "Brand": "Skalop",
+   "Price": "1250",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Forest_Vest",
+   "Brand": "Inkline",
+   "Price": "11000",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Forge_Inkling_Parka",
+   "Brand": "Forge",
+   "Price": "2900",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Forge_Octarian_Jacket",
+   "Brand": "Forge",
+   "Price": "2700",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Fresh_Fish_Gloves",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Fugu_Tee",
+   "Brand": "Firefin",
+   "Price": "750",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Grape_Tee",
+   "Brand": "Skalop",
+   "Price": "400",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Gray_College_Sweat",
+   "Brand": "Splash_Mob",
+   "Price": "800",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Gray_Hoodie",
+   "Brand": "Skalop",
+   "Price": "1900",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Gray_Mixed_Shirt",
+   "Brand": "Zekko",
+   "Price": "2800",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Gray_Vector_Tee",
+   "Brand": "Takoroka",
+   "Price": "500",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Green_Cardigan",
+   "Brand": "Splash_Mob",
+   "Price": "1700",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Green_Striped_LS",
+   "Brand": "Inkline",
+   "Price": "700",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Green_Tee",
+   "Brand": "Forge",
+   "Price": "1200",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Green_Zip_Hoodie",
+   "Brand": "Firefin",
+   "Price": "2800",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Green-Check_Shirt",
+   "Brand": "Zekko",
+   "Price": "2000",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Herbivore_Tee",
+   "Brand": "Firefin",
+   "Price": "500",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Hero_Jacket_Replica",
+   "Brand": "Cuttlegear",
+   "Price": "0",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Hero_Suit_Replica",
+   "Brand": "Cuttlegear",
+   "Price": "0",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Hula_Punk_Shirt",
+   "Brand": "Annaki",
+   "Price": "5000",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Hype_Stripe_Button_Up",
+   "Brand": "Splash_Mob",
+   "Price": "9999",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Icewave_Tee",
+   "Brand": "Skalop",
+   "Price": "1250",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Indigo_Boss_Haori",
+   "Brand": "Emberz",
+   "Price": "10500",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Ink-Black_Paddle_Jack",
+   "Brand": "Toni_Kensa",
+   "Price": "9900",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Ink-Black_Tangle_Top",
+   "Brand": "Annaki",
+   "Price": "5550",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Ink-Wash_Shirt",
+   "Brand": "Toni_Kensa",
+   "Price": "4900",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Inkfall_Shirt",
+   "Brand": "Toni_Kensa",
+   "Price": "4900",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Ivory_Peaks_Tee",
+   "Brand": "Inkline",
+   "Price": "400",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Juice_Parka",
+   "Brand": "Grizzco",
+   "Price": "0",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Kensa_Coat",
+   "Brand": "Toni_Kensa",
+   "Price": "9200",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Khaki_Ranger_Vest",
+   "Brand": "Inkline",
+   "Price": "4200",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Krak-On_528",
+   "Brand": "Krak-On",
+   "Price": "800",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Layered_Anchor_LS",
+   "Brand": "SquidForce",
+   "Price": "4000",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Layered_Vector_LS",
+   "Brand": "Takoroka",
+   "Price": "1200",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Lemon_Hoodless",
+   "Brand": "Z+F",
+   "Price": "3456",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Light-Bright_Paddle_Jack",
+   "Brand": "Toni_Kensa",
+   "Price": "9900",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Lime_Battlecrab_Shell",
+   "Brand": "Enperry",
+   "Price": "6400",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Lime_BlobMob_Tee",
+   "Brand": "Emberz",
+   "Price": "1050",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Lime_Ski_Jacket",
+   "Brand": "Inkline",
+   "Price": "3370",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Linen_Shirt",
+   "Brand": "Splash_Mob",
+   "Price": "700",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Logo_Aloha_Shirt",
+   "Brand": "Zekko",
+   "Price": "2900",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Lumberjack_Shirt",
+   "Brand": "Rockenberg",
+   "Price": "800",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Lyco-P_Streetstyle_Tee",
+   "Brand": "Skalop",
+   "Price": "500",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Manatee_Swag_Sweat",
+   "Brand": "Krak-On",
+   "Price": "4000",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Marinated_Top",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Matcha_Down_Jacket",
+   "Brand": "Inkline",
+   "Price": "9100",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Mint_Tee",
+   "Brand": "Skalop",
+   "Price": "400",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Moby_Knit",
+   "Brand": "Krak-On",
+   "Price": "9600",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Motley_Hoodless",
+   "Brand": "Z+F",
+   "Price": "4567",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Mountain_Vest",
+   "Brand": "Inkline",
+   "Price": "11000",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "N-Pacer_Sweat",
+   "Brand": "Enperry",
+   "Price": "7800",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Navy_College_Sweat",
+   "Brand": "Splash_Mob",
+   "Price": "800",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Navy_Striped_LS",
+   "Brand": "Splash_Mob",
+   "Price": "1050",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Navy_Z+F_Tee",
+   "Brand": "Z+F",
+   "Price": "850",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Negative_Longcuff_Sweater",
+   "Brand": "Toni_Kensa",
+   "Price": "11800",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Octo_Jumper_Away",
+   "Brand": "Takoroka",
+   "Price": "3000",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Octo_Tee",
+   "Brand": "Cuttlegear",
+   "Price": "8888",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Octobowler_Shirt",
+   "Brand": "Krak-On",
+   "Price": "2100",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Octosquid_Tandem_Tee",
+   "Brand": "SquidForce",
+   "Price": "300",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Olive_Ski_Jacket",
+   "Brand": "Inkline",
+   "Price": "11000",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Orange_Cardigan",
+   "Brand": "Splash_Mob",
+   "Price": "700",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Orca_Bolero",
+   "Brand": "Toni_Kensa",
+   "Price": "9980",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Part-Time_Pirate",
+   "Brand": "Tentatek",
+   "Price": "800",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Patchwork_Bomber",
+   "Brand": "Emberz",
+   "Price": "12500",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Pearl_Tee",
+   "Brand": "Skalop",
+   "Price": "400",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Pearlescent_Hoodie",
+   "Brand": "amiibo",
+   "Price": "Pearl",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Penguin_Bolero",
+   "Brand": "Toni_Kensa",
+   "Price": "9900",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Pineapple_Ringer",
+   "Brand": "Zink",
+   "Price": "1000",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Pirate-Stripe_Tee",
+   "Brand": "Splash_Mob",
+   "Price": "700",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Power_Armor",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Power_Armor_Mk_I",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Purple_Camo_LS",
+   "Brand": "Takoroka",
+   "Price": "600",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Rad_Plaid_Casual",
+   "Brand": "Z+F",
+   "Price": "9760",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Rainy-Day_Tee",
+   "Brand": "Krak-On",
+   "Price": "300",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Red_Battlecrab_Shell",
+   "Brand": "Enperry",
+   "Price": "6200",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Red_Vector_Tee",
+   "Brand": "Takoroka",
+   "Price": "500",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Red-Check_Shirt",
+   "Brand": "Zekko",
+   "Price": "2000",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Reel_Sweat",
+   "Brand": "Zekko",
+   "Price": "900",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Reggae_Tee",
+   "Brand": "Skalop",
+   "Price": "8200",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Retro_Gamer_Jersey",
+   "Brand": "Zink",
+   "Price": "9000",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Retro_Sweat",
+   "Brand": "SquidForce",
+   "Price": "9000",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Rockenberg_Black",
+   "Brand": "Rockenberg",
+   "Price": "800",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Rockenberg_White",
+   "Brand": "Rockenberg",
+   "Price": "2500",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Rodeo_Shirt",
+   "Brand": "Krak-On",
+   "Price": "750",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Round-Collar_Shirt",
+   "Brand": "Rockenberg",
+   "Price": "1600",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Rugby_King_08",
+   "Brand": "Enperry",
+   "Price": "3200",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Rugby_King_10",
+   "Brand": "Enperry",
+   "Price": "3200",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Sage_Polo",
+   "Brand": "Splash_Mob",
+   "Price": "400",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Sailor-Stripe_Tee",
+   "Brand": "Splash_Mob",
+   "Price": "700",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Samurai_Jacket",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "School_Cardigan_A",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "School_Cardigan_B",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "School_Jersey",
+   "Brand": "Zink",
+   "Price": "3000",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "School_Uniform_A",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "School_Uniform_B",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "Schoolyard_Scrap_Jack",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Seafoam_Hoodie",
+   "Brand": "Z+F",
+   "Price": "8920",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Seahorse_Shoreliner",
+   "Brand": "Krak-On",
+   "Price": "3800",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Shirt_&_Tie",
+   "Brand": "Splash_Mob",
+   "Price": "8400",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Shrimp-Pink_Polo",
+   "Brand": "Splash_Mob",
+   "Price": "550",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Sky-Blue_Squideye",
+   "Brand": "Tentatek",
+   "Price": "500",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Slipstream_United",
+   "Brand": "Takoroka",
+   "Price": "1800",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Squid_Satin_Jacket",
+   "Brand": "Zekko",
+   "Price": "9200",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Squid-Pattern_Waistcoat",
+   "Brand": "Krak-On",
+   "Price": "800",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Squid-Stitch_Tee",
+   "Brand": "Skalop",
+   "Price": "400",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Squiddor_Polo",
+   "Brand": "Grizzco",
+   "Price": "0",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Squidmark_LS",
+   "Brand": "SquidForce",
+   "Price": "600",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Squidmark_Sweat",
+   "Brand": "SquidForce",
+   "Price": "800",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "Squidstar_Waistcoat",
+   "Brand": "Krak-On",
+   "Price": "650",
+   "Ability": "Intensify_Action"
+ },
+ {
+   "Name": "Squinja_Suit",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "Steel_Platemail",
+   "Brand": "amiibo",
+   "Price": "0",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Striped_Peaks_LS",
+   "Brand": "Inkline",
+   "Price": "700",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Striped_Rugby",
+   "Brand": "Takoroka",
+   "Price": "2300",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Striped_Shirt",
+   "Brand": "Splash_Mob",
+   "Price": "2200",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Sudadera_Celeste",
+   "Brand": "Krak-On",
+   "Price": "3650",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Sudadera_Roja",
+   "Brand": "Krak-On",
+   "Price": "3450",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Sunny-Day_Tee",
+   "Brand": "Krak-On",
+   "Price": "300",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Takoroka_Galactic_Tie_Dye",
+   "Brand": "Takoroka",
+   "Price": "850",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Takoroka_Rainbow_Tie_Dye",
+   "Brand": "Takoroka",
+   "Price": "850",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Takoroka_Nineties_Nylon",
+   "Brand": "Takoroka",
+   "Price": "9900",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Takoroka_Nylon_Vintage",
+   "Brand": "Takoroka",
+   "Price": "9500",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Takoroka_Tandem",
+   "Brand": "Takoroka",
+   "Price": "1200",
+   "Ability": "Swim_Speed_Up"
+ },
+ {
+   "Name": "Tan_Retro_Tee",
+   "Brand": "Tentatek",
+   "Price": "8800",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Tentatek_Tandem",
+   "Brand": "Tentatek",
+   "Price": "960",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "Tri-Octo_Tee",
+   "Brand": "SquidForce",
+   "Price": "300",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Tri-Shred_Tee",
+   "Brand": "SquidForce",
+   "Price": "530",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Tri-Squid_Tee",
+   "Brand": "SquidForce",
+   "Price": "300",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Tricolor_Rugby",
+   "Brand": "Takoroka",
+   "Price": "700",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "Trooper_Top",
+   "Brand": "Z+F",
+   "Price": "10100",
+   "Ability": "Ink_Resistance_Up"
+ },
+ {
+   "Name": "Umibozu_Home_Jersey",
+   "Brand": "Takoroka",
+   "Price": "870",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Umibozu_Road_Jersey",
+   "Brand": "Takoroka",
+   "Price": "8900",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Urban_Upcycle_Top",
+   "Brand": "Emberz",
+   "Price": "8800",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Urchins_Jersey",
+   "Brand": "Zink",
+   "Price": "700",
+   "Ability": "Run_Speed_Up"
+ },
+ {
+   "Name": "Vaporwave_Tee",
+   "Brand": "Skalop",
+   "Price": "880",
+   "Ability": "Thermal_Ink"
+ },
+ {
+   "Name": "Varsity_Baseball_LS",
+   "Brand": "Splash_Mob",
+   "Price": "700",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Varsity_Jacket",
+   "Brand": "Zekko",
+   "Price": "11500",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "Vintage_Check_Shirt",
+   "Brand": "Rockenberg",
+   "Price": "9000",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "White_8-Bit_FishFry",
+   "Brand": "Firefin",
+   "Price": "800",
+   "Ability": "Sub_Power_Up"
+ },
+ {
+   "Name": "White_Anchor_Tee",
+   "Brand": "SquidForce",
+   "Price": "2800",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "White_Baseball_LS",
+   "Brand": "Rockenberg",
+   "Price": "800",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "White_Inky_Rider",
+   "Brand": "Rockenberg",
+   "Price": "12800",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "White_Layered_LS",
+   "Brand": "SquidForce",
+   "Price": "500",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "White_LS",
+   "Brand": "SquidForce",
+   "Price": "600",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "White_Sailor_Suit",
+   "Brand": "Forge",
+   "Price": "3000",
+   "Ability": "Ink_Saver_(Main)"
+ },
+ {
+   "Name": "White_Shirt",
+   "Brand": "Splash_Mob",
+   "Price": "7500",
+   "Ability": "Ink_Recovery_Up"
+ },
+ {
+   "Name": "White_Striped_LS",
+   "Brand": "Splash_Mob",
+   "Price": "2300",
+   "Ability": "Quick_Respawn"
+ },
+ {
+   "Name": "White_Tee",
+   "Brand": "SquidForce",
+   "Price": "400",
+   "Ability": "Ink_Saver_(Sub)"
+ },
+ {
+   "Name": "White_V-Neck_Tee",
+   "Brand": "SquidForce",
+   "Price": "3800",
+   "Ability": "Special_Saver"
+ },
+ {
+   "Name": "White_Z+F_Tee",
+   "Brand": "Z+F",
+   "Price": "830",
+   "Ability": "Special_Power_Up"
+ },
+ {
+   "Name": "Yellow_Layered_LS",
+   "Brand": "SquidForce",
+   "Price": "500",
+   "Ability": "Quick_Super_Jump"
+ },
+ {
+   "Name": "Yellow_Urban_Vest",
+   "Brand": "Firefin",
+   "Price": "4000",
+   "Ability": "Haunt"
+ },
+ {
+   "Name": "Zapfish_Satin_Jacket",
+   "Brand": "Zekko",
+   "Price": "2900",
+   "Ability": "Special_Charge_Up"
+ },
+ {
+   "Name": "Zekko_Baseball_LS",
+   "Brand": "Zekko",
+   "Price": "800",
+   "Ability": "Sub_Resistance_Up"
+ },
+ {
+   "Name": "Zekko_Hoodie",
+   "Brand": "Zekko",
+   "Price": "2800",
+   "Ability": "Ninja_Squid"
+ },
+ {
+   "Name": "Zink_Layered_LS",
+   "Brand": "Zink",
+   "Price": "600",
+   "Ability": "Respawn_Punisher"
+ },
+ {
+   "Name": "Zink_LS",
+   "Brand": "Zink",
+   "Price": "500",
+   "Ability": "Special_Power_Up"
+ }
+]

@@ -1,5 +1,5 @@
 
-
 .blur {
+  position: absolute;
   filter: blur(5px);
 }

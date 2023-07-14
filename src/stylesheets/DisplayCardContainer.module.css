@@ -2,8 +2,11 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(5, 1fr);
+  grid-gap: 10px 10px;
   justify-items: center;
   align-items: center;
   width: 1040px;
   height: 1550px;
+
+  margin: auto;
 }

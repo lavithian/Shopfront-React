@@ -1,10 +1,11 @@
 import React, { useState, useContext } from "react";
 import styles from "./stylesheets/FilterTab.module.css";
-import { HideFilterContext } from "./App";
+import { HideFilterContext } from "./components/App/App";
 
 function FilterTab(props) {
   const [searchInput, setSearchInput] = useState('');
   const [hideFilter, setHideFilter] = useContext(HideFilterContext);
+  const container = document.getElementById('display');
 
   function handleChange (e) {
     e.preventDefault();
@@ -15,25 +16,15 @@ function FilterTab(props) {
 
   }
 
-  // const handleClickOutside = e => {
-  //   if (node.current.contains(e.target)) {
-  //     // inside click
-  //     return;
-  //   }
-  //   // outside click
-  //   setHideFilter(true);
-  // };
-
-  // // useEffect(() => {
-  //   // Attach the listeners on component mount.
-  //   document.addEventListener("mousedown", handleClickOutside);
-
-  //   // Detach the listeners on component unmount.
-  //   return () => {
-  //     document.removeEventListener("mousedown", handleClickOutside);
-  //   };
-  // }, [hideFilter]);
-
+  function closeFilterTab (e) {
+    if (!hideFilter && (e.pageX > container.offsetWidth || e.pageY > container.offsetHeight || e.pageY < container.offsetHeight)) {
+      console.log(hideFilter);
+      setHideFilter(true);
+    } else {
+      console.log(hideFilter);
+      setHideFilter(false);
+    }
+  }
 
   function filterHeadgear () {
 
@@ -52,7 +43,7 @@ function FilterTab(props) {
   }
 
   return (
-    <div className={`${styles.filter} ${hideFilter ? styles.hideFilter : ''}`} onClick={() => setHideFilter(false)}>
+    <div className={`${styles.filter} ${hideFilter ? styles.hideFilter : ''}`} onClick={() => setHideFilter(false)} id="filter">
       Search Bar
       <div className={styles.searchBar}>
         <input type="text"
