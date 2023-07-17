@@ -1,968 +1,968 @@
 [
  {
-   "Name": "18K_Aviators",
-   "Brands": "Rockenberg",
-   "Price": 12000,
-   "Ability": "Last-Ditch_Effort"
+   "name": "18K_Aviators",
+   "brand": "Rockenberg",
+   "price": 12000,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "360_All-Scopes",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "360_All-Scopes",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Air_Gills_DX",
-   "Brands": "SquidForce",
-   "Price": 825,
-   "Ability": "Tenacity"
+   "name": "Air_Gills_DX",
+   "brand": "SquidForce",
+   "price": 825,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Annaki_Beret",
-   "Brands": "Annaki",
-   "Price": 11500,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Annaki_Beret",
+   "brand": "Annaki",
+   "price": 11500,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Annaki_Beret_&_Glasses",
-   "Brands": "Annaki",
-   "Price": 7850,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Annaki_Beret_&_Glasses",
+   "brand": "Annaki",
+   "price": 7850,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Annaki_Charms",
-   "Brands": "Annaki",
-   "Price": 777,
-   "Ability": "Swim_Speed_Up"
+   "name": "Annaki_Charms",
+   "brand": "Annaki",
+   "price": 777,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Annaki_Mask",
-   "Brands": "Annaki",
-   "Price": 3600,
-   "Ability": "Opening_Gambit"
+   "name": "Annaki_Mask",
+   "brand": "Annaki",
+   "price": 3600,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Armor_Helmet_Replica",
-   "Brands": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Tenacity"
+   "name": "Armor_Helmet_Replica",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Astro_Helm",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Astro_Helm",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "B-ball_Headband",
-   "Brands": "Zink",
-   "Price": 300,
-   "Ability": "Opening_Gambit"
+   "name": "B-ball_Headband",
+   "brand": "Zink",
+   "price": 300,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Backward_Cap",
-   "Brands": "Zekko",
-   "Price": 700,
-   "Ability": "Quick_Respawn"
+   "name": "Backward_Cap",
+   "brand": "Zekko",
+   "price": 700,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Bamboo_Hat",
-   "Brands": "Inkline",
-   "Price": 2200,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Bamboo_Hat",
+   "brand": "Inkline",
+   "price": 2200,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Barrelfish_Home_Helmet",
-   "Brands": "Forge",
-   "Price": 3500,
-   "Ability": "Run_Speed_Up"
+   "name": "Barrelfish_Home_Helmet",
+   "brand": "Forge",
+   "price": 3500,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Beachcomber",
-   "Brands": "Inkline",
-   "Price": 8900,
-   "Ability": "Opening_Gambit"
+   "name": "Beachcomber",
+   "brand": "Inkline",
+   "price": 8900,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Bike_Helmet",
-   "Brands": "Skalop",
-   "Price": 4800,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Bike_Helmet",
+   "brand": "Skalop",
+   "price": 4800,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Black_Arrowbands",
-   "Brands": "Zekko",
-   "Price": 2800,
-   "Ability": "Tenacity"
+   "name": "Black_Arrowbands",
+   "brand": "Zekko",
+   "price": 2800,
+   "ability": "Tenacity"
  },
  {
-   "Name": "BlobMob_Mask",
-   "Brands": "Emberz",
-   "Price": 825,
-   "Ability": "Tenacity"
+   "name": "BlobMob_Mask",
+   "brand": "Emberz",
+   "price": 825,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Blowfish_Bell_Hat",
-   "Brands": "Firefin",
-   "Price": 850,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Blowfish_Bell_Hat",
+   "brand": "Firefin",
+   "price": 850,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Bobble_Hat",
-   "Brands": "Splash Mob",
-   "Price": 2000,
-   "Ability": "Quick_Super_Jump"
+   "name": "Bobble_Hat",
+   "brand": "Splash Mob",
+   "price": 2000,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Boss_Floss",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Intensify_Action"
+   "name": "Boss_Floss",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Brain_Strainer",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Brain_Strainer",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Bream-Brim_Cap",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Bream-Brim_Cap",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Bucket_Hat",
-   "Brands": "SquidForce",
-   "Price": 400,
-   "Ability": "Special_Saver"
+   "name": "Bucket_Hat",
+   "brand": "SquidForce",
+   "price": 400,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Camo_Mesh",
-   "Brands": "Firefin",
-   "Price": 1400,
-   "Ability": "Swim_Speed_Up"
+   "name": "Camo_Mesh",
+   "brand": "Firefin",
+   "price": 1400,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Cap'n_Cap",
-   "Brands": "Splash Mob",
-   "Price": 10500,
-   "Ability": "Quick_Respawn"
+   "name": "Cap'n_Cap",
+   "brand": "Splash Mob",
+   "price": 10500,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Camping_Hat",
-   "Brands": "Inkline",
-   "Price": 800,
-   "Ability": "Special_Power_Up"
+   "name": "Camping_Hat",
+   "brand": "Inkline",
+   "price": 800,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Cephalo_Pods",
-   "Brands": "Forge",
-   "Price": 1980,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Cephalo_Pods",
+   "brand": "Forge",
+   "price": 1980,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Chaos_Helm",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Special_Power_Up"
+   "name": "Chaos_Helm",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Classic_Bowler",
-   "Brands": "Splash Mob",
-   "Price": 3000,
-   "Ability": "Run_Speed_Up"
+   "name": "Classic_Bowler",
+   "brand": "Splash Mob",
+   "price": 3000,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Classic_Straw_Boater",
-   "Brands": "Skalop",
-   "Price": 1500,
-   "Ability": "Special_Power_Up"
+   "name": "Classic_Straw_Boater",
+   "brand": "Skalop",
+   "price": 1500,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Commander_Cap",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Commander_Cap",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Crust_Bucket_Visor",
-   "Brands": "SquidForce",
-   "Price": 1200,
-   "Ability": "Quick_Super_Jump"
+   "name": "Crust_Bucket_Visor",
+   "brand": "SquidForce",
+   "price": 1200,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Cycle_King_Cap",
-   "Brands": "Tentatek",
-   "Price": 2400,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Cycle_King_Cap",
+   "brand": "Tentatek",
+   "price": 2400,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Cycling_Cap",
-   "Brands": "Zink",
-   "Price": 800,
-   "Ability": "Sub_Power_Up"
+   "name": "Cycling_Cap",
+   "brand": "Zink",
+   "price": 800,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Deep_Sinker_Helm",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Deep_Sinker_Helm",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Designer_Headphones",
-   "Brands": "Forge",
-   "Price": 2500,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Designer_Headphones",
+   "brand": "Forge",
+   "price": 2500,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Do-Rag,_Cap_&_Glasses",
-   "Brands": "Skalop",
-   "Price": 9500,
-   "Ability": "Intensify_Action"
+   "name": "Do-Rag,_Cap_&_Glasses",
+   "brand": "Skalop",
+   "price": 9500,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Double_Egg_Shades",
-   "Brands": "Zekko",
-   "Price": 2200,
-   "Ability": "Run_Speed_Up"
+   "name": "Double_Egg_Shades",
+   "brand": "Zekko",
+   "price": 2200,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Dust_Blocker_2000",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Dust_Blocker_2000",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Dustcloud_Cap",
-   "Brands": "Z+F",
-   "Price": 7800,
-   "Ability": "Run_Speed_Up"
+   "name": "Dustcloud_Cap",
+   "brand": "Z+F",
+   "price": 7800,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Dustcloud_'Phones",
-   "Brands": "Z+F",
-   "Price": 2500,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Dustcloud_'Phones",
+   "brand": "Z+F",
+   "price": 2500,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Enchanted_Hat",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Enchanted_Hat",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Face_Visor",
-   "Brands": "Toni Kensa",
-   "Price": 10300,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Face_Visor",
+   "brand": "Toni Kensa",
+   "price": 10300,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Fake_Contacts",
-   "Brands": "Tentatek",
-   "Price": 2000,
-   "Ability": "Special_Charge_Up"
+   "name": "Fake_Contacts",
+   "brand": "Tentatek",
+   "price": 2000,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Firefin_Facemask",
-   "Brands": "Firefin",
-   "Price": 650,
-   "Ability": "Run_Speed_Up"
+   "name": "Firefin_Facemask",
+   "brand": "Firefin",
+   "price": 650,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "FishFry_Biscuit_Bandana",
-   "Brands": "Firefin",
-   "Price": 1250,
-   "Ability": "Special_Power_Up"
+   "name": "FishFry_Biscuit_Bandana",
+   "brand": "Firefin",
+   "price": 1250,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "FishFry_Visor",
-   "Brands": "Firefin",
-   "Price": 500,
-   "Ability": "Special_Charge_Up"
+   "name": "FishFry_Visor",
+   "brand": "Firefin",
+   "price": 500,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Five-Alarm_Helmet",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Five-Alarm_Helmet",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Five-Panel_Cap",
-   "Brands": "Zekko",
-   "Price": 1800,
-   "Ability": "Comeback"
+   "name": "Five-Panel_Cap",
+   "brand": "Zekko",
+   "price": 1800,
+   "ability": "Comeback"
  },
  {
-   "Name": "Forge_Mask",
-   "Brands": "Forge",
-   "Price": 1400,
-   "Ability": "Intensify_Action"
+   "name": "Forge_Mask",
+   "brand": "Forge",
+   "price": 1400,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Fresh_Fish_Head",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Comeback"
+   "name": "Fresh_Fish_Head",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Comeback"
  },
  {
-   "Name": "Full-Moon_Glasses",
-   "Brands": " Krak-On",
-   "Price": 600,
-   "Ability": "Quick_Super_Jump"
+   "name": "Full-Moon_Glasses",
+   "brand": " Krak-On",
+   "price": 600,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Gas_Mask",
-   "Brands": "Forge",
-   "Price": 11000,
-   "Ability": "Tenacity"
+   "name": "Gas_Mask",
+   "brand": "Forge",
+   "price": 11000,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Glam_Clam_Specs",
-   "Brands": "Splash Mob",
-   "Price": 10000,
-   "Ability": "Special_Saver"
+   "name": "Glam_Clam_Specs",
+   "brand": "Splash Mob",
+   "price": 10000,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Glassless_Glasses",
-   "Brands": "Toni Kensa",
-   "Price": 11000,
-   "Ability": "Quick_Respawn"
+   "name": "Glassless_Glasses",
+   "brand": "Toni Kensa",
+   "price": 11000,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Golf_Visor",
-   "Brands": "Zink",
-   "Price": 400,
-   "Ability": "Run_Speed_Up"
+   "name": "Golf_Visor",
+   "brand": "Zink",
+   "price": 400,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Half-Rim_Glasses",
-   "Brands": "Splash Mob",
-   "Price": 4100,
-   "Ability": "Special_Power_Up"
+   "name": "Half-Rim_Glasses",
+   "brand": "Splash Mob",
+   "price": 4100,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Hat-Trick_Bell_Hat",
-   "Brands": "Z+F",
-   "Price": 9333,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Hat-Trick_Bell_Hat",
+   "brand": "Z+F",
+   "price": 9333,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Headlamp_Helmet",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Special_Power_Up"
+   "name": "Headlamp_Helmet",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Hero_Headset_Replica",
-   "Brands": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Run_Speed_Up"
+   "name": "Hero_Headset_Replica",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Hero_Mindset_Replica",
-   "Brands": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Sub_Power_Up"
+   "name": "Hero_Mindset_Replica",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Hickory_Work_Cap",
-   "Brands": " Krak-On",
-   "Price": 8700,
-   "Ability": "Special_Power_Up"
+   "name": "Hickory_Work_Cap",
+   "brand": " Krak-On",
+   "price": 8700,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Hipster_Horn-Rims",
-   "Brands": "Splash Mob",
-   "Price": 11200,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Hipster_Horn-Rims",
+   "brand": "Splash Mob",
+   "price": 11200,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Hockey_Helmet",
-   "Brands": "Forge",
-   "Price": 9900,
-   "Ability": "Intensify_Action"
+   "name": "Hockey_Helmet",
+   "brand": "Forge",
+   "price": 9900,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Home-Team_Catcher",
-   "Brands": "Forge",
-   "Price": 1960,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Home-Team_Catcher",
+   "brand": "Forge",
+   "price": 1960,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "House-Tag_Denim_Cap",
-   "Brands": "Splash Mob",
-   "Price": 5200,
-   "Ability": "Special_Charge_Up"
+   "name": "House-Tag_Denim_Cap",
+   "brand": "Splash Mob",
+   "price": 5200,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Howdy_Hat",
-   "Brands": "Rockenberg",
-   "Price": 13000,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Howdy_Hat",
+   "brand": "Rockenberg",
+   "price": 13000,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Ink-Black_Flap_Cap",
-   "Brands": "Barazushi",
-   "Price": 11200,
-   "Ability": "Special_Power_Up"
+   "name": "Ink-Black_Flap_Cap",
+   "brand": "Barazushi",
+   "price": 11200,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Ink-Tinted_Goggles",
-   "Brands": "Emberz",
-   "Price": 10500,
-   "Ability": "Swim_Speed_Up"
+   "name": "Ink-Tinted_Goggles",
+   "brand": "Emberz",
+   "price": 10500,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Invisifloats",
-   "Brands": "Inkline",
-   "Price": 2780,
-   "Ability": "Comeback"
+   "name": "Invisifloats",
+   "brand": "Inkline",
+   "price": 2780,
+   "ability": "Comeback"
  },
  {
-   "Name": "Jean_Dream_Bucket",
-   "Brands": "Splash Mob",
-   "Price": 2100,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Jean_Dream_Bucket",
+   "brand": "Splash Mob",
+   "price": 2100,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Jellyvader_Cap",
-   "Brands": "Skalop",
-   "Price": 10000,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Jellyvader_Cap",
+   "brand": "Skalop",
+   "price": 10000,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Jet_Cap",
-   "Brands": "Firefin",
-   "Price": 700,
-   "Ability": "Special_Saver"
+   "name": "Jet_Cap",
+   "brand": "Firefin",
+   "price": 700,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Jogging_Headband",
-   "Brands": "Zekko",
-   "Price": 400,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Jogging_Headband",
+   "brand": "Zekko",
+   "price": 400,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Jungle_Hat",
-   "Brands": "Firefin",
-   "Price": 9000,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Jungle_Hat",
+   "brand": "Firefin",
+   "price": 9000,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Knitted_Hat",
-   "Brands": "Firefin",
-   "Price": 1400,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Knitted_Hat",
+   "brand": "Firefin",
+   "price": 1400,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Lightweight_Cap",
-   "Brands": "Inkline",
-   "Price": 800,
-   "Ability": "Swim_Speed_Up"
+   "name": "Lightweight_Cap",
+   "brand": "Inkline",
+   "price": 800,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Lo-Vis_Visor",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "Lo-Vis_Visor",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Marinated_Headphones",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Special_Saver"
+   "name": "Marinated_Headphones",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Moto_Shades",
-   "Brands": "Barazushi",
-   "Price": 10200,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Moto_Shades",
+   "brand": "Barazushi",
+   "price": 10200,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "MTB_Helmet",
-   "Brands": "Zekko",
-   "Price": 10500,
-   "Ability": "Tenacity"
+   "name": "MTB_Helmet",
+   "brand": "Zekko",
+   "price": 10500,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Noise_Cancelers",
-   "Brands": "Forge",
-   "Price": 9200,
-   "Ability": "Quick_Respawn"
+   "name": "Noise_Cancelers",
+   "brand": "Forge",
+   "price": 9200,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Ocho_OctoPhones",
-   "Brands": "Forge",
-   "Price": 3000,
-   "Ability": "Opening_Gambit"
+   "name": "Ocho_OctoPhones",
+   "brand": "Forge",
+   "price": 3000,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Ocho_OctoPhones_Blancos",
-   "Brands": "Forge",
-   "Price": 3000,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Ocho_OctoPhones_Blancos",
+   "brand": "Forge",
+   "price": 3000,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Octoglasses",
-   "Brands": "Firefin",
-   "Price": 8800,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Octoglasses",
+   "brand": "Firefin",
+   "price": 8800,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Octoking_Facemask",
-   "Brands": "Enperry",
-   "Price": 1450,
-   "Ability": "Tenacity"
+   "name": "Octoking_Facemask",
+   "brand": "Enperry",
+   "price": 1450,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Octo_Tackle_Helmet_Deco",
-   "Brands": "Forge",
-   "Price": 8888,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Octo_Tackle_Helmet_Deco",
+   "brand": "Forge",
+   "price": 8888,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Paintball_Mask",
-   "Brands": "Forge",
-   "Price": 10000,
-   "Ability": "Comeback"
+   "name": "Paintball_Mask",
+   "brand": "Forge",
+   "price": 10000,
+   "ability": "Comeback"
  },
  {
-   "Name": "Painter's_Mask",
-   "Brands": "SquidForce",
-   "Price": 4500,
-   "Ability": "Intensify_Action"
+   "name": "Painter's_Mask",
+   "brand": "SquidForce",
+   "price": 4500,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Paisley_Bandana",
-   "Brands": " Krak-On",
-   "Price": 750,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Paisley_Bandana",
+   "brand": " Krak-On",
+   "price": 750,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Party_Hard_Hat",
-   "Brands": "Forge",
-   "Price": 12000,
-   "Ability": "Quick_Super_Jump"
+   "name": "Party_Hard_Hat",
+   "brand": "Forge",
+   "price": 12000,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Pearlescent_Crown_L",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Pearlescent_Crown_L",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Pearlescent_Crown_S",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Pearlescent_Crown_S",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Pilot_Goggles",
-   "Brands": "Forge",
-   "Price": 5500,
-   "Ability": "Sub_Power_Up"
+   "name": "Pilot_Goggles",
+   "brand": "Forge",
+   "price": 5500,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Power_Mask_Mk_I",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Power_Mask_Mk_I",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Power_Mask",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Power_Mask",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Retro_BluFocals",
-   "Brands": "Emberz",
-   "Price": 11700,
-   "Ability": "Intensify_Action"
+   "name": "Retro_BluFocals",
+   "brand": "Emberz",
+   "price": 11700,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Retro_Framers",
-   "Brands": "Enperry",
-   "Price": 9900,
-   "Ability": "Opening_Gambit"
+   "name": "Retro_Framers",
+   "brand": "Enperry",
+   "price": 9900,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Retro_Specs",
-   "Brands": "Splash Mob",
-   "Price": 500,
-   "Ability": "Quick_Respawn"
+   "name": "Retro_Specs",
+   "brand": "Splash Mob",
+   "price": 500,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Safari_Hat",
-   "Brands": "Forge",
-   "Price": 2300,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Safari_Hat",
+   "brand": "Forge",
+   "price": 2300,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Samurai_Helmet",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Quick_Super_Jump"
+   "name": "Samurai_Helmet",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Scrum_Cap",
-   "Brands": "Forge",
-   "Price": 8500,
-   "Ability": "Special_Saver"
+   "name": "Scrum_Cap",
+   "brand": "Forge",
+   "price": 8500,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Sea-Me-Nots",
-   "Brands": "Z+F",
-   "Price": 11000,
-   "Ability": "Quick_Respawn"
+   "name": "Sea-Me-Nots",
+   "brand": "Z+F",
+   "price": 11000,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Seafoam_Cap",
-   "Brands": "Z+F",
-   "Price": 7800,
-   "Ability": "Swim_Speed_Up"
+   "name": "Seafoam_Cap",
+   "brand": "Z+F",
+   "price": 7800,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Seafoam_'Phones",
-   "Brands": "Z+F",
-   "Price": 9000,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Seafoam_'Phones",
+   "brand": "Z+F",
+   "price": 9000,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Seashell_Bamboo_Hat",
-   "Brands": "Inkline",
-   "Price": 3200,
-   "Ability": "Quick_Respawn"
+   "name": "Seashell_Bamboo_Hat",
+   "brand": "Inkline",
+   "price": 3200,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "See-an-Enemy_HUD",
-   "Brands": "Grizzco",
-   "Price": 0,
-   "Ability": "Random"
+   "name": "See-an-Enemy_HUD",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Random"
  },
  {
-   "Name": "Short_Beanie",
-   "Brands": "Inkline",
-   "Price": 600,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Short_Beanie",
+   "brand": "Inkline",
+   "price": 600,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Skate_Helmet",
-   "Brands": "Skalop",
-   "Price": 2500,
-   "Ability": "Special_Saver"
+   "name": "Skate_Helmet",
+   "brand": "Skalop",
+   "price": 2500,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Skull_Bandana",
-   "Brands": "Forge",
-   "Price": 7800,
-   "Ability": "Special_Saver"
+   "name": "Skull_Bandana",
+   "brand": "Forge",
+   "price": 7800,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Snorkel_Mask",
-   "Brands": "Forge",
-   "Price": 3000,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Snorkel_Mask",
+   "brand": "Forge",
+   "price": 3000,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Soccer_Headband",
-   "Brands": "Tentatek",
-   "Price": 3000,
-   "Ability": "Tenacity"
+   "name": "Soccer_Headband",
+   "brand": "Tentatek",
+   "price": 3000,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Special-Forces_Beret",
-   "Brands": "Forge",
-   "Price": 9700,
-   "Ability": "Opening_Gambit"
+   "name": "Special-Forces_Beret",
+   "brand": "Forge",
+   "price": 9700,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Splash_Goggles",
-   "Brands": "Forge",
-   "Price": 2800,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Splash_Goggles",
+   "brand": "Forge",
+   "price": 2800,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Sporty_Bobble_Hat",
-   "Brands": "Skalop",
-   "Price": 800,
-   "Ability": "Tenacity"
+   "name": "Sporty_Bobble_Hat",
+   "brand": "Skalop",
+   "price": 800,
+   "ability": "Tenacity"
  },
  {
-   "Name": "Squash_Headband",
-   "Brands": "Zink",
-   "Price": 400,
-   "Ability": "Special_Saver"
+   "name": "Squash_Headband",
+   "brand": "Zink",
+   "price": 400,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Squid_Clip-Ons",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Opening_Gambit"
+   "name": "Squid_Clip-Ons",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Squid_Facemask",
-   "Brands": "SquidForce",
-   "Price": 300,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Squid_Facemask",
+   "brand": "SquidForce",
+   "price": 300,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Squid_Hairclip",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Swim_Speed_Up"
+   "name": "Squid_Hairclip",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Squid_Nordic",
-   "Brands": "Skalop",
-   "Price": 9500,
-   "Ability": "Comeback"
+   "name": "Squid_Nordic",
+   "brand": "Skalop",
+   "price": 9500,
+   "ability": "Comeback"
  },
  {
-   "Name": "Squid-Stitch_Cap",
-   "Brands": "Skalop",
-   "Price": 8500,
-   "Ability": "Opening_Gambit"
+   "name": "Squid-Stitch_Cap",
+   "brand": "Skalop",
+   "price": 8500,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Squidband",
-   "Brands": "Zink",
-   "Price": 400,
-   "Ability": "Quick_Respawn"
+   "name": "Squidband",
+   "brand": "Zink",
+   "price": 400,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Squidbeak_Shield",
-   "Brands": "Toni Kensa",
-   "Price": 4000,
-   "Ability": "Sub_Power_Up"
+   "name": "Squidbeak_Shield",
+   "brand": "Toni Kensa",
+   "price": 4000,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Squidlife_Headphones",
-   "Brands": "Forge",
-   "Price": 7070,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Squidlife_Headphones",
+   "brand": "Forge",
+   "price": 7070,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Squidvader_Cap",
-   "Brands": "Skalop",
-   "Price": 1300,
-   "Ability": "Special_Charge_Up"
+   "name": "Squidvader_Cap",
+   "brand": "Skalop",
+   "price": 1300,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Squinja_Mask_Mk_I",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Quick_Respawn"
+   "name": "Squinja_Mask_Mk_I",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Squinja_Mask_Mk_II",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Quick_Respawn"
+   "name": "Squinja_Mask_Mk_II",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Stay_Crusty_Cap",
-   "Brands": "SquidForce",
-   "Price": 0,
-   "Ability": "Sub_Power_Up"
+   "name": "Stay_Crusty_Cap",
+   "brand": "SquidForce",
+   "price": 0,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Stealth_Goggles",
-   "Brands": "Forge",
-   "Price": 9800,
-   "Ability": "Swim_Speed_Up"
+   "name": "Stealth_Goggles",
+   "brand": "Forge",
+   "price": 9800,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Stealth_Squidbeak_Shield",
-   "Brands": "Toni Kensa",
-   "Price": 4400,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Stealth_Squidbeak_Shield",
+   "brand": "Toni Kensa",
+   "price": 4400,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Steel_Helm",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Special_Charge_Up"
+   "name": "Steel_Helm",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Straw_Boater",
-   "Brands": "Skalop",
-   "Price": 550,
-   "Ability": "Quick_Super_Jump"
+   "name": "Straw_Boater",
+   "brand": "Skalop",
+   "price": 550,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Streetstyle_Cap",
-   "Brands": "Skalop",
-   "Price": 600,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Streetstyle_Cap",
+   "brand": "Skalop",
+   "price": 600,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Striped_Beanie",
-   "Brands": "Splash Mob",
-   "Price": 900,
-   "Ability": "Opening_Gambit"
+   "name": "Striped_Beanie",
+   "brand": "Splash Mob",
+   "price": 900,
+   "ability": "Opening_Gambit"
  },
  {
-   "Name": "Studio_Headphones",
-   "Brands": "Forge",
-   "Price": 2800,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Studio_Headphones",
+   "brand": "Forge",
+   "price": 2800,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Sun_Visor",
-   "Brands": "Tentatek",
-   "Price": 2600,
-   "Ability": "Sub_Power_Up"
+   "name": "Sun_Visor",
+   "brand": "Tentatek",
+   "price": 2600,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Sushi_Sous-Chef_Headband",
-   "Brands": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Sushi_Sous-Chef_Headband",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "SV925_Circle_Shades",
-   "Brands": "Rockenberg",
-   "Price": 11000,
-   "Ability": "Swim_Speed_Up"
+   "name": "SV925_Circle_Shades",
+   "brand": "Rockenberg",
+   "price": 11000,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Swim_Goggles",
-   "Brands": "Zink",
-   "Price": 100,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Swim_Goggles",
+   "brand": "Zink",
+   "price": 100,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Takoroka_Mesh",
-   "Brands": "Takoroka",
-   "Price": 400,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Takoroka_Mesh",
+   "brand": "Takoroka",
+   "price": 400,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Takoroka_Visor",
-   "Brands": "Takoroka",
-   "Price": 7500,
-   "Ability": "Quick_Super_Jump"
+   "name": "Takoroka_Visor",
+   "brand": "Takoroka",
+   "price": 7500,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Teddy_Band",
-   "Brands": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Comeback"
+   "name": "Teddy_Band",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Comeback"
  },
  {
-   "Name": "Tennis_Headband",
-   "Brands": "Tentatek",
-   "Price": 300,
-   "Ability": "Comeback"
+   "name": "Tennis_Headband",
+   "brand": "Tentatek",
+   "price": 300,
+   "ability": "Comeback"
  },
  {
-   "Name": "Tentaclinger_Earring",
-   "Brands": "Toni Kensa",
-   "Price": 12800,
-   "Ability": "Quick_Super_Jump"
+   "name": "Tentaclinger_Earring",
+   "brand": "Toni Kensa",
+   "price": 12800,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Tinted_Shades",
-   "Brands": "Zekko",
-   "Price": 350,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Tinted_Shades",
+   "brand": "Zekko",
+   "price": 350,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Toni_Kensa_Goggles",
-   "Brands": "Toni Kensa",
-   "Price": 200,
-   "Ability": "Comeback"
+   "name": "Toni_Kensa_Goggles",
+   "brand": "Toni Kensa",
+   "price": 200,
+   "ability": "Comeback"
  },
  {
-   "Name": "Treasure_Hunter",
-   "Brands": "Forge",
-   "Price": 3000,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Treasure_Hunter",
+   "brand": "Forge",
+   "price": 3000,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Triple-Deck_Specs",
-   "Brands": "Enperry",
-   "Price": 11300,
-   "Ability": "Sub_Power_Up"
+   "name": "Triple-Deck_Specs",
+   "brand": "Enperry",
+   "price": 11300,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Tulip_Parasol",
-   "Brands": "Inkline",
-   "Price": 1280,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Tulip_Parasol",
+   "brand": "Inkline",
+   "price": 1280,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Two-Stripe_Mesh",
-   "Brands": " Krak-On",
-   "Price": 700,
-   "Ability": "Special_Saver"
+   "name": "Two-Stripe_Mesh",
+   "brand": " Krak-On",
+   "price": 700,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Urchins_Cap",
-   "Brands": "Skalop",
-   "Price": 600,
-   "Ability": "Sub_Power_Up"
+   "name": "Urchins_Cap",
+   "brand": "Skalop",
+   "price": 600,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Visor_Skate_Helmet",
-   "Brands": "Skalop",
-   "Price": 8000,
-   "Ability": "Last-Ditch_Effort"
+   "name": "Visor_Skate_Helmet",
+   "brand": "Skalop",
+   "price": 8000,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Wharfside_Cap",
-   "Brands": "Skalop",
-   "Price": 5000,
-   "Ability": "Tenacity"
+   "name": "Wharfside_Cap",
+   "brand": "Skalop",
+   "price": 5000,
+   "ability": "Tenacity"
  },
  {
-   "Name": "White_Arrowbands",
-   "Brands": "Zekko",
-   "Price": 8000,
-   "Ability": "Special_Power_Up"
+   "name": "White_Arrowbands",
+   "brand": "Zekko",
+   "price": 8000,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "White_Headband",
-   "Brands": "SquidForce",
-   "Price": 300,
-   "Ability": "Ink_Recovery_Up"
+   "name": "White_Headband",
+   "brand": "SquidForce",
+   "price": 300,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Winkle_Stripe_Helm",
-   "Brands": "Skalop",
-   "Price": 9000,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Winkle_Stripe_Helm",
+   "brand": "Skalop",
+   "price": 9000,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Woolly_Urchins_Classic",
-   "Brands": " Krak-On",
-   "Price": 3800,
-   "Ability": "Comeback"
+   "name": "Woolly_Urchins_Classic",
+   "brand": " Krak-On",
+   "price": 3800,
+   "ability": "Comeback"
  },
  {
-   "Name": "Z+F_Flair_Bowler",
-   "Brands": "Z+F",
-   "Price": 9800,
-   "Ability": "Special_Charge_Up"
+   "name": "Z+F_Flair_Bowler",
+   "brand": "Z+F",
+   "price": 9800,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "ZedFry_Beanie",
-   "Brands": "Z+F",
-   "Price": 1111,
-   "Ability": "Quick_Super_Jump"
+   "name": "ZedFry_Beanie",
+   "brand": "Z+F",
+   "price": 1111,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "ZedFry_Helmet",
-   "Brands": "Z+F",
-   "Price": 8000,
-   "Ability": "Last-Ditch_Effort"
+   "name": "ZedFry_Helmet",
+   "brand": "Z+F",
+   "price": 8000,
+   "ability": "Last-Ditch_Effort"
  },
  {
-   "Name": "Zekko_Mesh",
-   "Brands": "Zekko",
-   "Price": 500,
-   "Ability": "Quick_Super_Jump"
+   "name": "Zekko_Mesh",
+   "brand": "Zekko",
+   "price": 500,
+   "ability": "Quick_Super_Jump"
  }
 ]

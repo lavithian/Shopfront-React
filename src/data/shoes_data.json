@@ -1,854 +1,854 @@
 [
  {
-   "Name": "Acerola_Rain_Boots",
-   "Brand": "Inkline",
-   "Price": 600,
-   "Ability": "Run_Speed_Up"
+   "name": "Acerola_Rain_Boots",
+   "brand": "Inkline",
+   "price": 600,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Angry_Rain_Boots",
-   "Brand": "Grizzco",
-   "Price": 0,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Angry_Rain_Boots",
+   "brand": "Grizzco",
+   "price": 0,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Annaki_Habaneros",
-   "Brand": "Annaki",
-   "Price": 8880,
-   "Ability": "Sub_Power_Up"
+   "name": "Annaki_Habaneros",
+   "brand": "Annaki",
+   "price": 8880,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Annaki_Strappy_Sandals",
-   "Brand": "Annaki",
-   "Price": 890,
-   "Ability": "Object_Shredder"
+   "name": "Annaki_Strappy_Sandals",
+   "brand": "Annaki",
+   "price": 890,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Annaki_Tigers",
-   "Brand": "Annaki",
-   "Price": 9990,
-   "Ability": "Special_Power_Up"
+   "name": "Annaki_Tigers",
+   "brand": "Annaki",
+   "price": 9990,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Arctic_Duck_Boots",
-   "Brand": "Barazushi",
-   "Price": 9200,
-   "Ability": "Quick_Respawn"
+   "name": "Arctic_Duck_Boots",
+   "brand": "Barazushi",
+   "price": 9200,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Armor_Boot_Replicas",
-   "Brand": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Armor_Boot_Replicas",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Arrow_Pull-Ons",
-   "Brand": "Toni_Kensa",
-   "Price": 10000,
-   "Ability": "Drop_Roller"
+   "name": "Arrow_Pull-Ons",
+   "brand": "Toni_Kensa",
+   "price": 10000,
+   "ability": "Drop_Roller"
  },
  {
-   "Name": "Arrow_Toesies_Blu",
-   "Brand": "Takoroka",
-   "Price": 980,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Arrow_Toesies_Blu",
+   "brand": "Takoroka",
+   "price": 980,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Arrow_Toesies_Purp",
-   "Brand": "Takoroka",
-   "Price": 3180,
-   "Ability": "Swim_Speed_Up"
+   "name": "Arrow_Toesies_Purp",
+   "brand": "Takoroka",
+   "price": 3180,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Baggy-Sock_Fringe_Loafs",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Baggy-Sock_Fringe_Loafs",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Banana_Basics",
-   "Brand": "Krak-On",
-   "Price": 400,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Banana_Basics",
+   "brand": "Krak-On",
+   "price": 400,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Base_Fringed_Loafers",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Base_Fringed_Loafers",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Base_School_Shoes",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Base_School_Shoes",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Black_Flip-Flops",
-   "Brand": "Zekko",
-   "Price": 300,
-   "Ability": "Object_Shredder"
+   "name": "Black_Flip-Flops",
+   "brand": "Zekko",
+   "price": 300,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Black_Seahorses",
-   "Brand": "Zink",
-   "Price": 2000,
-   "Ability": "Swim_Speed_Up"
+   "name": "Black_Seahorses",
+   "brand": "Zink",
+   "price": 2000,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Black_Trainers",
-   "Brand": "Tentatek",
-   "Price": 500,
-   "Ability": "Quick_Respawn"
+   "name": "Black_Trainers",
+   "brand": "Tentatek",
+   "price": 500,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "BlobMob_Flip-Flops",
-   "Brand": "Emberz",
-   "Price": 400,
-   "Ability": "Ink_Resistance_Up"
+   "name": "BlobMob_Flip-Flops",
+   "brand": "Emberz",
+   "price": 400,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Blu-Shift_Moto_Boots",
-   "Brand": "Rockenberg",
-   "Price": 12000,
-   "Ability": "Swim_Speed_Up"
+   "name": "Blu-Shift_Moto_Boots",
+   "brand": "Rockenberg",
+   "price": 12000,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Blue_&_Black_Squidkid_IV",
-   "Brand": "Enperry",
-   "Price": 11000,
-   "Ability": "Quick_Super_Jump"
+   "name": "Blue_&_Black_Squidkid_IV",
+   "brand": "Enperry",
+   "price": 11000,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Blue_Lo-Tops",
-   "Brand": "Zekko",
-   "Price": 800,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Blue_Lo-Tops",
+   "brand": "Zekko",
+   "price": 800,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Blue_Moto_Boots",
-   "Brand": "Rockenberg",
-   "Price": 10800,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Blue_Moto_Boots",
+   "brand": "Rockenberg",
+   "price": 10800,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Blue_Sea_Slugs",
-   "Brand": "Tentatek",
-   "Price": 800,
-   "Ability": "Special_Charge_Up"
+   "name": "Blue_Sea_Slugs",
+   "brand": "Tentatek",
+   "price": 800,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Blue_Shrimpsiders",
-   "Brand": "Enperry",
-   "Price": 4120,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Blue_Shrimpsiders",
+   "brand": "Enperry",
+   "price": 4120,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Blue_Slip-Ons",
-   "Brand": "Krak-On",
-   "Price": 400,
-   "Ability": "Sub_Power_Up"
+   "name": "Blue_Slip-Ons",
+   "brand": "Krak-On",
+   "price": 400,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Blueberry_Casuals",
-   "Brand": "Krak-On",
-   "Price": 700,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Blueberry_Casuals",
+   "brand": "Krak-On",
+   "price": 700,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Bubble_Rain_Boots",
-   "Brand": "Inkline",
-   "Price": 450,
-   "Ability": "Drop_Roller"
+   "name": "Bubble_Rain_Boots",
+   "brand": "Inkline",
+   "price": 450,
+   "ability": "Drop_Roller"
  },
  {
-   "Name": "Chaos_Kicks",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Intensify_Action"
+   "name": "Chaos_Kicks",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Cherry_Kicks",
-   "Brand": "Rockenberg",
-   "Price": 2400,
-   "Ability": "Stealth_Jump"
+   "name": "Cherry_Kicks",
+   "brand": "Rockenberg",
+   "price": 2400,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Choco_Clogs",
-   "Brand": "Krak-On",
-   "Price": 1800,
-   "Ability": "Quick_Respawn"
+   "name": "Choco_Clogs",
+   "brand": "Krak-On",
+   "price": 1800,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Chocolate_Dakroniks",
-   "Brand": "Zink",
-   "Price": 1700,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Chocolate_Dakroniks",
+   "brand": "Zink",
+   "price": 1700,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Clownfish_Basics",
-   "Brand": "Krak-On",
-   "Price": 500,
-   "Ability": "Special_Charge_Up"
+   "name": "Clownfish_Basics",
+   "brand": "Krak-On",
+   "price": 500,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Crazy_Arrows",
-   "Brand": "Takoroka",
-   "Price": 4500,
-   "Ability": "Stealth_Jump"
+   "name": "Crazy_Arrows",
+   "brand": "Takoroka",
+   "price": 4500,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Cream_Hi-Tops",
-   "Brand": "Krak-On",
-   "Price": 500,
-   "Ability": "Stealth_Jump"
+   "name": "Cream_Hi-Tops",
+   "brand": "Krak-On",
+   "price": 500,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Custom_Trail_Boots",
-   "Brand": "Inkline",
-   "Price": 3000,
-   "Ability": "Special_Power_Up"
+   "name": "Custom_Trail_Boots",
+   "brand": "Inkline",
+   "price": 3000,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Cuttlefish_Sandies",
-   "Brand": "Rockenberg",
-   "Price": 850,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Cuttlefish_Sandies",
+   "brand": "Rockenberg",
+   "price": 850,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Cyan_Dadfoot_Sandals",
-   "Brand": "Zink",
-   "Price": 650,
-   "Ability": "Special_Saver"
+   "name": "Cyan_Dadfoot_Sandals",
+   "brand": "Zink",
+   "price": 650,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Cyan_Trainers",
-   "Brand": "Tentatek",
-   "Price": 700,
-   "Ability": "Stealth_Jump"
+   "name": "Cyan_Trainers",
+   "brand": "Tentatek",
+   "price": 700,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Dappled_Hammertreads",
-   "Brand": "Annaki",
-   "Price": 9500,
-   "Ability": "Drop_Roller"
+   "name": "Dappled_Hammertreads",
+   "brand": "Annaki",
+   "price": 9500,
+   "ability": "Drop_Roller"
  },
  {
-   "Name": "Dark-Roast_Boaties",
-   "Brand": "Rockenberg",
-   "Price": 2200,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Dark-Roast_Boaties",
+   "brand": "Rockenberg",
+   "price": 2200,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Desert_Chukkas",
-   "Brand": "Barazushi",
-   "Price": 10200,
-   "Ability": "Stealth_Jump"
+   "name": "Desert_Chukkas",
+   "brand": "Barazushi",
+   "price": 10200,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Dustcloud_Hi-Tops",
-   "Brand": "Z+F",
-   "Price": 8800,
-   "Ability": "Stealth_Jump"
+   "name": "Dustcloud_Hi-Tops",
+   "brand": "Z+F",
+   "price": 8800,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "E-JECT_30XX",
-   "Brand": "Emberz",
-   "Price": 2600,
-   "Ability": "Special_Power_Up"
+   "name": "E-JECT_30XX",
+   "brand": "Emberz",
+   "price": 2600,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Enchanted_Boots",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Run_Speed_Up"
+   "name": "Enchanted_Boots",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Force_ReBoots",
-   "Brand": "Takoroka",
-   "Price": 899,
-   "Ability": "Special_Saver"
+   "name": "Force_ReBoots",
+   "brand": "Takoroka",
+   "price": 899,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Fresh_Fish_Feet",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Quick_Respawn"
+   "name": "Fresh_Fish_Feet",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Fry_Tops",
-   "Brand": "SquidForce",
-   "Price": 0,
-   "Ability": "Intensify_Action"
+   "name": "Fry_Tops",
+   "brand": "SquidForce",
+   "price": 0,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Fuzzy_Boots",
-   "Brand": "Barazushi",
-   "Price": 3600,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Fuzzy_Boots",
+   "brand": "Barazushi",
+   "price": 3600,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Gold_Hi-Horses",
-   "Brand": "Zink",
-   "Price": 7000,
-   "Ability": "Run_Speed_Up"
+   "name": "Gold_Hi-Horses",
+   "brand": "Zink",
+   "price": 7000,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Green_Rain_Boots",
-   "Brand": "Inkline",
-   "Price": 1600,
-   "Ability": "Stealth_Jump"
+   "name": "Green_Rain_Boots",
+   "brand": "Inkline",
+   "price": 1600,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Green_Toejamz",
-   "Brand": "Z+F",
-   "Price": 1050,
-   "Ability": "Special_Power_Up"
+   "name": "Green_Toejamz",
+   "brand": "Z+F",
+   "price": 1050,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Hero_Boot_Replicas",
-   "Brand": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Hero_Boot_Replicas",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Hero_Runner_Replicas",
-   "Brand": "Cuttlegear",
-   "Price": 0,
-   "Ability": "Quick_Super_Jump"
+   "name": "Hero_Runner_Replicas",
+   "brand": "Cuttlegear",
+   "price": 0,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Hunter_Hi-Tops",
-   "Brand": "Krak-On",
-   "Price": 500,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Hunter_Hi-Tops",
+   "brand": "Krak-On",
+   "price": 500,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Hunting_Boots",
-   "Brand": "Splash_Mob",
-   "Price": 11500,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Hunting_Boots",
+   "brand": "Splash_Mob",
+   "price": 11500,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Hyper_Guppies",
-   "Brand": "Tentatek",
-   "Price": 1300,
-   "Ability": "Run_Speed_Up"
+   "name": "Hyper_Guppies",
+   "brand": "Tentatek",
+   "price": 1300,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Icy_Down_Boots",
-   "Brand": "Tentatek",
-   "Price": 8200,
-   "Ability": "Stealth_Jump"
+   "name": "Icy_Down_Boots",
+   "brand": "Tentatek",
+   "price": 8200,
+   "ability": "Stealth_Jump"
  },
  {
-   "Name": "Ink-Black_Clam_600s",
-   "Brand": "Toni_Kensa",
-   "Price": 11500,
-   "Ability": "Quick_Super_Jump"
+   "name": "Ink-Black_Clam_600s",
+   "brand": "Toni_Kensa",
+   "price": 11500,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Kick_Dampeners",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Quick_Super_Jump"
+   "name": "Kick_Dampeners",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Kid_Clams",
-   "Brand": "Rockenberg",
-   "Price": 9500,
-   "Ability": "Special_Power_Up"
+   "name": "Kid_Clams",
+   "brand": "Rockenberg",
+   "price": 9500,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Knotty_Bois",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Drop_Roller"
+   "name": "Knotty_Bois",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Drop_Roller"
  },
  {
-   "Name": "LE_Lo-Tops",
-   "Brand": "Zekko",
-   "Price": 8000,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "LE_Lo-Tops",
+   "brand": "Zekko",
+   "price": 8000,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "LE_Soccer_Shoes",
-   "Brand": "Takoroka",
-   "Price": 7500,
-   "Ability": "Ink_Resistance_Up"
+   "name": "LE_Soccer_Shoes",
+   "brand": "Takoroka",
+   "price": 7500,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Luminous_Delta_Straps",
-   "Brand": "Inkline",
-   "Price": 5000,
-   "Ability": "Intensify_Action"
+   "name": "Luminous_Delta_Straps",
+   "brand": "Inkline",
+   "price": 5000,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Mako_Bucket_Hi-Tops",
-   "Brand": "Emberz",
-   "Price": 2800,
-   "Ability": "Sub_Power_Up"
+   "name": "Mako_Bucket_Hi-Tops",
+   "brand": "Emberz",
+   "price": 2800,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Marinated_Slip-Ons",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Marinated_Slip-Ons",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Mawcasins",
-   "Brand": "Splash_Mob",
-   "Price": 2400,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Mawcasins",
+   "brand": "Splash_Mob",
+   "price": 2400,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Moto_Boots",
-   "Brand": "Rockenberg",
-   "Price": 3800,
-   "Ability": "Quick_Respawn"
+   "name": "Moto_Boots",
+   "brand": "Rockenberg",
+   "price": 3800,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Navy_Red-Soled_Wingtops",
-   "Brand": "Rockenberg",
-   "Price": 4600,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Navy_Red-Soled_Wingtops",
+   "brand": "Rockenberg",
+   "price": 4600,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Navy_Toejamz",
-   "Brand": "Z+F",
-   "Price": 720,
-   "Ability": "Sub_Power_Up"
+   "name": "Navy_Toejamz",
+   "brand": "Z+F",
+   "price": 720,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Neon_Delta_Straps",
-   "Brand": "Inkline",
-   "Price": 4800,
-   "Ability": "Sub_Power_Up"
+   "name": "Neon_Delta_Straps",
+   "brand": "Inkline",
+   "price": 4800,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Neon_Sea_Slugs",
-   "Brand": "Tentatek",
-   "Price": 700,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Neon_Sea_Slugs",
+   "brand": "Tentatek",
+   "price": 700,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Onyx_01STERs",
-   "Brand": "Toni_Kensa",
-   "Price": 8880,
-   "Ability": "Special_Charge_Up"
+   "name": "Onyx_01STERs",
+   "brand": "Toni_Kensa",
+   "price": 8880,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Orange_Arrows",
-   "Brand": "Takoroka",
-   "Price": 1100,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Orange_Arrows",
+   "brand": "Takoroka",
+   "price": 1100,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Orange_Dadfoot_Sandals",
-   "Brand": "Zink",
-   "Price": 650,
-   "Ability": "Run_Speed_Up"
+   "name": "Orange_Dadfoot_Sandals",
+   "brand": "Zink",
+   "price": 650,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Orange_Lo-Tops",
-   "Brand": "Zekko",
-   "Price": 800,
-   "Ability": "Swim_Speed_Up"
+   "name": "Orange_Lo-Tops",
+   "brand": "Zekko",
+   "price": 800,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Oyster_Clogs",
-   "Brand": "Krak-On",
-   "Price": 600,
-   "Ability": "Run_Speed_Up"
+   "name": "Oyster_Clogs",
+   "brand": "Krak-On",
+   "price": 600,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Pearl_01STERs",
-   "Brand": "Toni_Kensa",
-   "Price": 8800,
-   "Ability": "Special_Saver"
+   "name": "Pearl_01STERs",
+   "brand": "Toni_Kensa",
+   "price": 8800,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Pearlescent_Kicks",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Special_Charge_Up"
+   "name": "Pearlescent_Kicks",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Pink_Dadfoot_Sandals",
-   "Brand": "Zink",
-   "Price": 650,
-   "Ability": "Intensify_Action"
+   "name": "Pink_Dadfoot_Sandals",
+   "brand": "Zink",
+   "price": 650,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Pink_Trainers",
-   "Brand": "Tentatek",
-   "Price": 500,
-   "Ability": "Sub_Power_Up"
+   "name": "Pink_Trainers",
+   "brand": "Tentatek",
+   "price": 500,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Plum_Casuals",
-   "Brand": "Krak-On",
-   "Price": 2000,
-   "Ability": "Object_Shredder"
+   "name": "Plum_Casuals",
+   "brand": "Krak-On",
+   "price": 2000,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Power_Boots_Mk_I",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Power_Boots_Mk_I",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Power_Boots",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Power_Boots",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Pro_Trail_Boots",
-   "Brand": "Inkline",
-   "Price": 9800,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Pro_Trail_Boots",
+   "brand": "Inkline",
+   "price": 9800,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Punk_Cherries",
-   "Brand": "Rockenberg",
-   "Price": 9000,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Punk_Cherries",
+   "brand": "Rockenberg",
+   "price": 9000,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Punk_Nights",
-   "Brand": "Rockenberg",
-   "Price": 8800,
-   "Ability": "Intensity"
+   "name": "Punk_Nights",
+   "brand": "Rockenberg",
+   "price": 8800,
+   "ability": "Intensity"
  },
  {
-   "Name": "Punk_Pinks",
-   "Brand": "Rockenberg",
-   "Price": 3600,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Punk_Pinks",
+   "brand": "Rockenberg",
+   "price": 3600,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Punk_Whites",
-   "Brand": "Rockenberg",
-   "Price": 3800,
-   "Ability": "Special_Charge_Up"
+   "name": "Punk_Whites",
+   "brand": "Rockenberg",
+   "price": 3800,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Punk_Yellows",
-   "Brand": "Rockenberg",
-   "Price": 3000,
-   "Ability": "Special_Saver"
+   "name": "Punk_Yellows",
+   "brand": "Rockenberg",
+   "price": 3000,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Purple_Hi-Horses",
-   "Brand": "Zink",
-   "Price": 1000,
-   "Ability": "Special_Power_Up"
+   "name": "Purple_Hi-Horses",
+   "brand": "Zink",
+   "price": 1000,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "Purple_Sea_Slugs",
-   "Brand": "Tentatek",
-   "Price": 1800,
-   "Ability": "Run_Speed_Up"
+   "name": "Purple_Sea_Slugs",
+   "brand": "Tentatek",
+   "price": 1800,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Red_&_Black_Squidkid_IV",
-   "Brand": "Enperry",
-   "Price": 11000,
-   "Ability": "Special_Charge_Up"
+   "name": "Red_&_Black_Squidkid_IV",
+   "brand": "Enperry",
+   "price": 11000,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Red_&_White_Squidkid_V",
-   "Brand": "Enperry",
-   "Price": 12800,
-   "Ability": "Run_Speed_Up"
+   "name": "Red_&_White_Squidkid_V",
+   "brand": "Enperry",
+   "price": 12800,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Red_3-Straps",
-   "Brand": "Splash_Mob",
-   "Price": 1400,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Red_3-Straps",
+   "brand": "Splash_Mob",
+   "price": 1400,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Red_FishFry_Sandals",
-   "Brand": "Firefin",
-   "Price": 2880,
-   "Ability": "Object_Shredder"
+   "name": "Red_FishFry_Sandals",
+   "brand": "Firefin",
+   "price": 2880,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Red_Hammertreads",
-   "Brand": "Annaki",
-   "Price": 10999,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Red_Hammertreads",
+   "brand": "Annaki",
+   "price": 10999,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Red_Hi-Horses",
-   "Brand": "Zink",
-   "Price": 800,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Red_Hi-Horses",
+   "brand": "Zink",
+   "price": 800,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Red_Hi-Tops",
-   "Brand": "Krak-On",
-   "Price": 1800,
-   "Ability": "Ink_Resistance_Up"
+   "name": "Red_Hi-Tops",
+   "brand": "Krak-On",
+   "price": 1800,
+   "ability": "Ink_Resistance_Up"
  },
  {
-   "Name": "Red_Sea_Slugs",
-   "Brand": "Tentatek",
-   "Price": 8000,
-   "Ability": "Special_Saver"
+   "name": "Red_Sea_Slugs",
+   "brand": "Tentatek",
+   "price": 8000,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Red_Slip-ons",
-   "Brand": "Krak-On",
-   "Price": 300,
-   "Ability": "Quick_Super_Jump"
+   "name": "Red_Slip-ons",
+   "brand": "Krak-On",
+   "price": 300,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Red_Toejamz",
-   "Brand": "Z+F",
-   "Price": 940,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Red_Toejamz",
+   "brand": "Z+F",
+   "price": 940,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Red_Work_Boots",
-   "Brand": "Rockenberg",
-   "Price": 11000,
-   "Ability": "Quick_Super_Jump"
+   "name": "Red_Work_Boots",
+   "brand": "Rockenberg",
+   "price": 11000,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Roasted_Brogues",
-   "Brand": "Rockenberg",
-   "Price": 1200,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Roasted_Brogues",
+   "brand": "Rockenberg",
+   "price": 1200,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Samurai_Shoes",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Special_Power_Up"
+   "name": "Samurai_Shoes",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "School_Shoes_+_Hi_Socks",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "School_Shoes_+_Hi_Socks",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Seafoam_Hi-Tops",
-   "Brand": "Z+F",
-   "Price": 9500,
-   "Ability": "Quick_Super_Jump"
+   "name": "Seafoam_Hi-Tops",
+   "brand": "Z+F",
+   "price": 9500,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Shark_Moccasins",
-   "Brand": "Splash_Mob",
-   "Price": 800,
-   "Ability": "Sub_Power_Up"
+   "name": "Shark_Moccasins",
+   "brand": "Splash_Mob",
+   "price": 800,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Skipjack_Work_Boots",
-   "Brand": "Rockenberg",
-   "Price": 4800,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "Skipjack_Work_Boots",
+   "brand": "Rockenberg",
+   "price": 4800,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "Slamgerine_Slip-Ons",
-   "Brand": "Takoroka",
-   "Price": 7980,
-   "Ability": "Ink_Saver_(Main)"
+   "name": "Slamgerine_Slip-Ons",
+   "brand": "Takoroka",
+   "price": 7980,
+   "ability": "Ink_Saver_(Main)"
  },
  {
-   "Name": "Snow_Delta_Straps",
-   "Brand": "Inkline",
-   "Price": 8800,
-   "Ability": "Swim_Speed_Up"
+   "name": "Snow_Delta_Straps",
+   "brand": "Inkline",
+   "price": 8800,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Snowy_Down_Boots",
-   "Brand": "Tentatek",
-   "Price": 8000,
-   "Ability": "Quick_Super_Jump"
+   "name": "Snowy_Down_Boots",
+   "brand": "Tentatek",
+   "price": 8000,
+   "ability": "Quick_Super_Jump"
  },
  {
-   "Name": "Soccer_Shoes",
-   "Brand": "Takoroka",
-   "Price": 9600,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Soccer_Shoes",
+   "brand": "Takoroka",
+   "price": 9600,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Squid-Stitch_Slip-Ons",
-   "Brand": "Krak-On",
-   "Price": 1500,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Squid-Stitch_Slip-Ons",
+   "brand": "Krak-On",
+   "price": 1500,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Squinja_Boots",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Swim_Speed_Up"
+   "name": "Squinja_Boots",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "Squink_Wingtips",
-   "Brand": "Rockenberg",
-   "Price": 800,
-   "Ability": "Quick_Respawn"
+   "name": "Squink_Wingtips",
+   "brand": "Rockenberg",
+   "price": 800,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Steel_Greaves",
-   "Brand": "amiibo",
-   "Price": 0,
-   "Ability": "Object_Shredder"
+   "name": "Steel_Greaves",
+   "brand": "amiibo",
+   "price": 0,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Suede_Basics",
-   "Brand": "Barazushi",
-   "Price": 8200,
-   "Ability": "Run_Speed_Up"
+   "name": "Suede_Basics",
+   "brand": "Barazushi",
+   "price": 8200,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Suede_Bosses",
-   "Brand": "Barazushi",
-   "Price": 8200,
-   "Ability": "Object_Shredder"
+   "name": "Suede_Bosses",
+   "brand": "Barazushi",
+   "price": 8200,
+   "ability": "Object_Shredder"
  },
  {
-   "Name": "Sunny_Climbing_Shoes",
-   "Brand": "Inkline",
-   "Price": 3200,
-   "Ability": "Special_Saver"
+   "name": "Sunny_Climbing_Shoes",
+   "brand": "Inkline",
+   "price": 3200,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Sunset_Orca_Hi-Tops",
-   "Brand": "Takoroka",
-   "Price": 3800,
-   "Ability": "Drop_Roller"
+   "name": "Sunset_Orca_Hi-Tops",
+   "brand": "Takoroka",
+   "price": 3800,
+   "ability": "Drop_Roller"
  },
  {
-   "Name": "Tan_Work_Boots",
-   "Brand": "Rockenberg",
-   "Price": 3000,
-   "Ability": "Sub_Power_Up"
+   "name": "Tan_Work_Boots",
+   "brand": "Rockenberg",
+   "price": 3000,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Tenya_OctoPurps",
-   "Brand": "Tentatek",
-   "Price": 7980,
-   "Ability": "Special_Saver"
+   "name": "Tenya_OctoPurps",
+   "brand": "Tentatek",
+   "price": 7980,
+   "ability": "Special_Saver"
  },
  {
-   "Name": "Tenya_OctoReds",
-   "Brand": "Tentatek",
-   "Price": 2900,
-   "Ability": "Quick_Respawn"
+   "name": "Tenya_OctoReds",
+   "brand": "Tentatek",
+   "price": 2900,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Trail_Boots",
-   "Brand": "Inkline",
-   "Price": 7500,
-   "Ability": "Ink_Recovery_Up"
+   "name": "Trail_Boots",
+   "brand": "Inkline",
+   "price": 7500,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Transom_Note_Boots",
-   "Brand": "Z+F",
-   "Price": 9500,
-   "Ability": "Run_Speed_Up"
+   "name": "Transom_Note_Boots",
+   "brand": "Z+F",
+   "price": 9500,
+   "ability": "Run_Speed_Up"
  },
  {
-   "Name": "Turbo_Tabi_Red",
-   "Brand": "Tentatek",
-   "Price": 2200,
-   "Ability": "Sub_Power_Up"
+   "name": "Turbo_Tabi_Red",
+   "brand": "Tentatek",
+   "price": 2200,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "Turquoise_Kicks",
-   "Brand": "Rockenberg",
-   "Price": 2800,
-   "Ability": "Special_Charge_Up"
+   "name": "Turquoise_Kicks",
+   "brand": "Rockenberg",
+   "price": 2800,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "U_Jellys",
-   "Brand": "Tentatek",
-   "Price": 2200,
-   "Ability": "Special_Charge_Up"
+   "name": "U_Jellys",
+   "brand": "Tentatek",
+   "price": 2200,
+   "ability": "Special_Charge_Up"
  },
  {
-   "Name": "Wasabi_Tabi",
-   "Brand": "Tentatek",
-   "Price": 10500,
-   "Ability": "Intensify_Action"
+   "name": "Wasabi_Tabi",
+   "brand": "Tentatek",
+   "price": 10500,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "White_3-Straps",
-   "Brand": "Splash_Mob",
-   "Price": 8700,
-   "Ability": "Ink_Saver_(Sub)"
+   "name": "White_3-Straps",
+   "brand": "Splash_Mob",
+   "price": 8700,
+   "ability": "Ink_Saver_(Sub)"
  },
  {
-   "Name": "White_Arrows",
-   "Brand": "Takoroka",
-   "Price": 2500,
-   "Ability": "Special_Power_Up"
+   "name": "White_Arrows",
+   "brand": "Takoroka",
+   "price": 2500,
+   "ability": "Special_Power_Up"
  },
  {
-   "Name": "White_Clams_600s",
-   "Brand": "Toni_Kensa",
-   "Price": 11260,
-   "Ability": "Quick_Respawn"
+   "name": "White_Clams_600s",
+   "brand": "Toni_Kensa",
+   "price": 11260,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "White_Kicks",
-   "Brand": "Rockenberg",
-   "Price": 1400,
-   "Ability": "Swim_Speed_Up"
+   "name": "White_Kicks",
+   "brand": "Rockenberg",
+   "price": 1400,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "White_Lo-Vert_Hi-Tops",
-   "Brand": "Barazushi",
-   "Price": 10200,
-   "Ability": "Sub_Power_Up"
+   "name": "White_Lo-Vert_Hi-Tops",
+   "brand": "Barazushi",
+   "price": 10200,
+   "ability": "Sub_Power_Up"
  },
  {
-   "Name": "White_Seahorses",
-   "Brand": "Zink",
-   "Price": 600,
-   "Ability": "Ink_Recovery_Up"
+   "name": "White_Seahorses",
+   "brand": "Zink",
+   "price": 600,
+   "ability": "Ink_Recovery_Up"
  },
  {
-   "Name": "Yellow_FishFry_Sandals",
-   "Brand": "Firefin",
-   "Price": 2880,
-   "Ability": "Intensify_Action"
+   "name": "Yellow_FishFry_Sandals",
+   "brand": "Firefin",
+   "price": 2880,
+   "ability": "Intensify_Action"
  },
  {
-   "Name": "Yellow_Seahorses",
-   "Brand": "Zink",
-   "Price": 1500,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Yellow_Seahorses",
+   "brand": "Zink",
+   "price": 1500,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Yellow_Toejamz",
-   "Brand": "Z+F",
-   "Price": 830,
-   "Ability": "Sub_Resistance_Up"
+   "name": "Yellow_Toejamz",
+   "brand": "Z+F",
+   "price": 830,
+   "ability": "Sub_Resistance_Up"
  },
  {
-   "Name": "Zebrafish_Hi-Tops",
-   "Brand": "Toni_Kensa",
-   "Price": 4200,
-   "Ability": "Swim_Speed_Up"
+   "name": "Zebrafish_Hi-Tops",
+   "brand": "Toni_Kensa",
+   "price": 4200,
+   "ability": "Swim_Speed_Up"
  },
  {
-   "Name": "ZedFry_Slip-ons",
-   "Brand": "Z+F",
-   "Price": 4200,
-   "Ability": "Quick_Respawn"
+   "name": "ZedFry_Slip-ons",
+   "brand": "Z+F",
+   "price": 4200,
+   "ability": "Quick_Respawn"
  },
  {
-   "Name": "Zombie_Hi-Horses",
-   "Brand": "Zink",
-   "Price": 800,
-   "Ability": "Special_Charge_Up"
+   "name": "Zombie_Hi-Horses",
+   "brand": "Zink",
+   "price": 800,
+   "ability": "Special_Charge_Up"
  }
 ]
