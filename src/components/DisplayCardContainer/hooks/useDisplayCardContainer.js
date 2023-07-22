@@ -5,9 +5,6 @@ import clothingData from "../../../data/clothing_data.json";
 import shoesData from "../../../data/shoes_data.json";
 
 function useDisplayCardContainer () {
-  // const headgearData = require("../../../data/headgear_data.json");
-  // const clothingData = require("../../../data/clothing_data.json");
-  // const shoesData = require("../../../data/shoes_data.json");
   const [gearType, setGearType] = useState("all");
   const [showSelection, setShowSelection] = useState(true);
   let gearArray = gearList(gearType);

@@ -1,40 +1,22 @@
-import React, { useState } from "react";
+import React from 'react'
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 import useApp from "./hooks/useApp";
-import styles from "./App.module.css";
-
-import SearchTab from "../SearchTab";
-import DisplayCardContainer from "../DisplayCardContainer";
-
-export const HideFilterContext = React.createContext();
-export const HideShowContext = React.createContext();
+import Home from "../Home"
+import ShowPage from '../ShowPage';
+import LandingPage from '../LandingPage';
 
 function App () {
-  const { isSearchTabOpen, setIsSearchTabOpen, closeSearchTab } = useApp();
-
   return (
-    <div>
-      <div style={isSearchTabOpen ? {filter: "blur(10px)"} : {}}>
-        <h1 style={{backgroundColor: "red"}}>Hello</h1>
-        <div onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/></div>
-        <DisplayCardContainer />
-      </div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/headgear/:id" element={<ShowPage name="Annaki_Beret" price={1000} brand="Annaki" ability="Swim_Speed_Up" type="Headgear" />} />
+        <Route path="/clothing/:id" element={<ShowPage />} />
+        <Route path="/shoes/:id" element={<ShowPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
 export default App;
-
-// Use portals for the filter tab
-
-// modals
-// fragments
-// memo
-{/* <div className={`${hideFilter && hideShowItem ? '' : styles.blur}`}></div> */}
-      {/* <HideFilterContext.Provider value={ [hideFilter, setHideFilter] }>
-        <div><FilterTab/></div>
-      </HideFilterContext.Provider> */}
-      {/* <HideShowContext.Provider value={[hideShowItem, setHideShowItem]}> */}
-        {/* <h1 style={{textAlign: "center"}}>Splatoon Shopfront</h1> */}
-          {/* <DisplayCardContainer /> */}
-        {/* <ShowItem key="Hat" name="Annaki_Hat" price={1000} brand="Annaki" ability="Swim Speed Up" type="Headgear"/> */}
-      {/* </HideShowContext.Provider> */}

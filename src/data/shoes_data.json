@@ -1,854 +1,1280 @@
 [
- {
-   "name": "Acerola_Rain_Boots",
-   "brand": "Inkline",
-   "price": 600,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Angry_Rain_Boots",
-   "brand": "Grizzco",
-   "price": 0,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Annaki_Habaneros",
-   "brand": "Annaki",
-   "price": 8880,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Annaki_Strappy_Sandals",
-   "brand": "Annaki",
-   "price": 890,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Annaki_Tigers",
-   "brand": "Annaki",
-   "price": 9990,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Arctic_Duck_Boots",
-   "brand": "Barazushi",
-   "price": 9200,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Armor_Boot_Replicas",
-   "brand": "Cuttlegear",
-   "price": 0,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Arrow_Pull-Ons",
-   "brand": "Toni_Kensa",
-   "price": 10000,
-   "ability": "Drop_Roller"
- },
- {
-   "name": "Arrow_Toesies_Blu",
-   "brand": "Takoroka",
-   "price": 980,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Arrow_Toesies_Purp",
-   "brand": "Takoroka",
-   "price": 3180,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Baggy-Sock_Fringe_Loafs",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Banana_Basics",
-   "brand": "Krak-On",
-   "price": 400,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Base_Fringed_Loafers",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Base_School_Shoes",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "Black_Flip-Flops",
-   "brand": "Zekko",
-   "price": 300,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Black_Seahorses",
-   "brand": "Zink",
-   "price": 2000,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Black_Trainers",
-   "brand": "Tentatek",
-   "price": 500,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "BlobMob_Flip-Flops",
-   "brand": "Emberz",
-   "price": 400,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Blu-Shift_Moto_Boots",
-   "brand": "Rockenberg",
-   "price": 12000,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Blue_&_Black_Squidkid_IV",
-   "brand": "Enperry",
-   "price": 11000,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Blue_Lo-Tops",
-   "brand": "Zekko",
-   "price": 800,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Blue_Moto_Boots",
-   "brand": "Rockenberg",
-   "price": 10800,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Blue_Sea_Slugs",
-   "brand": "Tentatek",
-   "price": 800,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Blue_Shrimpsiders",
-   "brand": "Enperry",
-   "price": 4120,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Blue_Slip-Ons",
-   "brand": "Krak-On",
-   "price": 400,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Blueberry_Casuals",
-   "brand": "Krak-On",
-   "price": 700,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "Bubble_Rain_Boots",
-   "brand": "Inkline",
-   "price": 450,
-   "ability": "Drop_Roller"
- },
- {
-   "name": "Chaos_Kicks",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "Cherry_Kicks",
-   "brand": "Rockenberg",
-   "price": 2400,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Choco_Clogs",
-   "brand": "Krak-On",
-   "price": 1800,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Chocolate_Dakroniks",
-   "brand": "Zink",
-   "price": 1700,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Clownfish_Basics",
-   "brand": "Krak-On",
-   "price": 500,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Crazy_Arrows",
-   "brand": "Takoroka",
-   "price": 4500,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Cream_Hi-Tops",
-   "brand": "Krak-On",
-   "price": 500,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Custom_Trail_Boots",
-   "brand": "Inkline",
-   "price": 3000,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Cuttlefish_Sandies",
-   "brand": "Rockenberg",
-   "price": 850,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Cyan_Dadfoot_Sandals",
-   "brand": "Zink",
-   "price": 650,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Cyan_Trainers",
-   "brand": "Tentatek",
-   "price": 700,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Dappled_Hammertreads",
-   "brand": "Annaki",
-   "price": 9500,
-   "ability": "Drop_Roller"
- },
- {
-   "name": "Dark-Roast_Boaties",
-   "brand": "Rockenberg",
-   "price": 2200,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Desert_Chukkas",
-   "brand": "Barazushi",
-   "price": 10200,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Dustcloud_Hi-Tops",
-   "brand": "Z+F",
-   "price": 8800,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "E-JECT_30XX",
-   "brand": "Emberz",
-   "price": 2600,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Enchanted_Boots",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Force_ReBoots",
-   "brand": "Takoroka",
-   "price": 899,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Fresh_Fish_Feet",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Fry_Tops",
-   "brand": "SquidForce",
-   "price": 0,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "Fuzzy_Boots",
-   "brand": "Barazushi",
-   "price": 3600,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Gold_Hi-Horses",
-   "brand": "Zink",
-   "price": 7000,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Green_Rain_Boots",
-   "brand": "Inkline",
-   "price": 1600,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Green_Toejamz",
-   "brand": "Z+F",
-   "price": 1050,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Hero_Boot_Replicas",
-   "brand": "Cuttlegear",
-   "price": 0,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Hero_Runner_Replicas",
-   "brand": "Cuttlegear",
-   "price": 0,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Hunter_Hi-Tops",
-   "brand": "Krak-On",
-   "price": 500,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Hunting_Boots",
-   "brand": "Splash_Mob",
-   "price": 11500,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Hyper_Guppies",
-   "brand": "Tentatek",
-   "price": 1300,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Icy_Down_Boots",
-   "brand": "Tentatek",
-   "price": 8200,
-   "ability": "Stealth_Jump"
- },
- {
-   "name": "Ink-Black_Clam_600s",
-   "brand": "Toni_Kensa",
-   "price": 11500,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Kick_Dampeners",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Kid_Clams",
-   "brand": "Rockenberg",
-   "price": 9500,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Knotty_Bois",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Drop_Roller"
- },
- {
-   "name": "LE_Lo-Tops",
-   "brand": "Zekko",
-   "price": 8000,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "LE_Soccer_Shoes",
-   "brand": "Takoroka",
-   "price": 7500,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Luminous_Delta_Straps",
-   "brand": "Inkline",
-   "price": 5000,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "Mako_Bucket_Hi-Tops",
-   "brand": "Emberz",
-   "price": 2800,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Marinated_Slip-Ons",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Mawcasins",
-   "brand": "Splash_Mob",
-   "price": 2400,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Moto_Boots",
-   "brand": "Rockenberg",
-   "price": 3800,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Navy_Red-Soled_Wingtops",
-   "brand": "Rockenberg",
-   "price": 4600,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Navy_Toejamz",
-   "brand": "Z+F",
-   "price": 720,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Neon_Delta_Straps",
-   "brand": "Inkline",
-   "price": 4800,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Neon_Sea_Slugs",
-   "brand": "Tentatek",
-   "price": 700,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Onyx_01STERs",
-   "brand": "Toni_Kensa",
-   "price": 8880,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Orange_Arrows",
-   "brand": "Takoroka",
-   "price": 1100,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Orange_Dadfoot_Sandals",
-   "brand": "Zink",
-   "price": 650,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Orange_Lo-Tops",
-   "brand": "Zekko",
-   "price": 800,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Oyster_Clogs",
-   "brand": "Krak-On",
-   "price": 600,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Pearl_01STERs",
-   "brand": "Toni_Kensa",
-   "price": 8800,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Pearlescent_Kicks",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Pink_Dadfoot_Sandals",
-   "brand": "Zink",
-   "price": 650,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "Pink_Trainers",
-   "brand": "Tentatek",
-   "price": 500,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Plum_Casuals",
-   "brand": "Krak-On",
-   "price": 2000,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Power_Boots_Mk_I",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Power_Boots",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Pro_Trail_Boots",
-   "brand": "Inkline",
-   "price": 9800,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Punk_Cherries",
-   "brand": "Rockenberg",
-   "price": 9000,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Punk_Nights",
-   "brand": "Rockenberg",
-   "price": 8800,
-   "ability": "Intensity"
- },
- {
-   "name": "Punk_Pinks",
-   "brand": "Rockenberg",
-   "price": 3600,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Punk_Whites",
-   "brand": "Rockenberg",
-   "price": 3800,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Punk_Yellows",
-   "brand": "Rockenberg",
-   "price": 3000,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Purple_Hi-Horses",
-   "brand": "Zink",
-   "price": 1000,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "Purple_Sea_Slugs",
-   "brand": "Tentatek",
-   "price": 1800,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Red_&_Black_Squidkid_IV",
-   "brand": "Enperry",
-   "price": 11000,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Red_&_White_Squidkid_V",
-   "brand": "Enperry",
-   "price": 12800,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Red_3-Straps",
-   "brand": "Splash_Mob",
-   "price": 1400,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Red_FishFry_Sandals",
-   "brand": "Firefin",
-   "price": 2880,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Red_Hammertreads",
-   "brand": "Annaki",
-   "price": 10999,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Red_Hi-Horses",
-   "brand": "Zink",
-   "price": 800,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Red_Hi-Tops",
-   "brand": "Krak-On",
-   "price": 1800,
-   "ability": "Ink_Resistance_Up"
- },
- {
-   "name": "Red_Sea_Slugs",
-   "brand": "Tentatek",
-   "price": 8000,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Red_Slip-ons",
-   "brand": "Krak-On",
-   "price": 300,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Red_Toejamz",
-   "brand": "Z+F",
-   "price": 940,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "Red_Work_Boots",
-   "brand": "Rockenberg",
-   "price": 11000,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Roasted_Brogues",
-   "brand": "Rockenberg",
-   "price": 1200,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Samurai_Shoes",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "School_Shoes_+_Hi_Socks",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "Seafoam_Hi-Tops",
-   "brand": "Z+F",
-   "price": 9500,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Shark_Moccasins",
-   "brand": "Splash_Mob",
-   "price": 800,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Skipjack_Work_Boots",
-   "brand": "Rockenberg",
-   "price": 4800,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "Slamgerine_Slip-Ons",
-   "brand": "Takoroka",
-   "price": 7980,
-   "ability": "Ink_Saver_(Main)"
- },
- {
-   "name": "Snow_Delta_Straps",
-   "brand": "Inkline",
-   "price": 8800,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Snowy_Down_Boots",
-   "brand": "Tentatek",
-   "price": 8000,
-   "ability": "Quick_Super_Jump"
- },
- {
-   "name": "Soccer_Shoes",
-   "brand": "Takoroka",
-   "price": 9600,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Squid-Stitch_Slip-Ons",
-   "brand": "Krak-On",
-   "price": 1500,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Squinja_Boots",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "Squink_Wingtips",
-   "brand": "Rockenberg",
-   "price": 800,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Steel_Greaves",
-   "brand": "amiibo",
-   "price": 0,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Suede_Basics",
-   "brand": "Barazushi",
-   "price": 8200,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Suede_Bosses",
-   "brand": "Barazushi",
-   "price": 8200,
-   "ability": "Object_Shredder"
- },
- {
-   "name": "Sunny_Climbing_Shoes",
-   "brand": "Inkline",
-   "price": 3200,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Sunset_Orca_Hi-Tops",
-   "brand": "Takoroka",
-   "price": 3800,
-   "ability": "Drop_Roller"
- },
- {
-   "name": "Tan_Work_Boots",
-   "brand": "Rockenberg",
-   "price": 3000,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Tenya_OctoPurps",
-   "brand": "Tentatek",
-   "price": 7980,
-   "ability": "Special_Saver"
- },
- {
-   "name": "Tenya_OctoReds",
-   "brand": "Tentatek",
-   "price": 2900,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Trail_Boots",
-   "brand": "Inkline",
-   "price": 7500,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Transom_Note_Boots",
-   "brand": "Z+F",
-   "price": 9500,
-   "ability": "Run_Speed_Up"
- },
- {
-   "name": "Turbo_Tabi_Red",
-   "brand": "Tentatek",
-   "price": 2200,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "Turquoise_Kicks",
-   "brand": "Rockenberg",
-   "price": 2800,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "U_Jellys",
-   "brand": "Tentatek",
-   "price": 2200,
-   "ability": "Special_Charge_Up"
- },
- {
-   "name": "Wasabi_Tabi",
-   "brand": "Tentatek",
-   "price": 10500,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "White_3-Straps",
-   "brand": "Splash_Mob",
-   "price": 8700,
-   "ability": "Ink_Saver_(Sub)"
- },
- {
-   "name": "White_Arrows",
-   "brand": "Takoroka",
-   "price": 2500,
-   "ability": "Special_Power_Up"
- },
- {
-   "name": "White_Clams_600s",
-   "brand": "Toni_Kensa",
-   "price": 11260,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "White_Kicks",
-   "brand": "Rockenberg",
-   "price": 1400,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "White_Lo-Vert_Hi-Tops",
-   "brand": "Barazushi",
-   "price": 10200,
-   "ability": "Sub_Power_Up"
- },
- {
-   "name": "White_Seahorses",
-   "brand": "Zink",
-   "price": 600,
-   "ability": "Ink_Recovery_Up"
- },
- {
-   "name": "Yellow_FishFry_Sandals",
-   "brand": "Firefin",
-   "price": 2880,
-   "ability": "Intensify_Action"
- },
- {
-   "name": "Yellow_Seahorses",
-   "brand": "Zink",
-   "price": 1500,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Yellow_Toejamz",
-   "brand": "Z+F",
-   "price": 830,
-   "ability": "Sub_Resistance_Up"
- },
- {
-   "name": "Zebrafish_Hi-Tops",
-   "brand": "Toni_Kensa",
-   "price": 4200,
-   "ability": "Swim_Speed_Up"
- },
- {
-   "name": "ZedFry_Slip-ons",
-   "brand": "Z+F",
-   "price": 4200,
-   "ability": "Quick_Respawn"
- },
- {
-   "name": "Zombie_Hi-Horses",
-   "brand": "Zink",
-   "price": 800,
-   "ability": "Special_Charge_Up"
- }
-]
+  {
+    "id": 1,
+    "name": "Acerola_Rain_Boots",
+    "brand": "Inkline",
+    "price": 600,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7d/S3_Gear_Shoes_Acerola_Rain_Boots.png"
+  },
+  {
+    "id": 2,
+    "name": "Angry_Rain_Boots",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c6/S3_Gear_Shoes_Angry_Rain_Boots.png"
+  },
+  {
+    "id": 3,
+    "name": "Annaki_Habaneros",
+    "brand": "Annaki",
+    "price": 8880,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/51/S3_Gear_Shoes_Annaki_Habaneros.png"
+  },
+  {
+    "id": 4,
+    "name": "Annaki_Strappy_Sandals",
+    "brand": "Annaki",
+    "price": 890,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/56/S3_Gear_Shoes_Annaki_Strappy_Sandals.png"
+  },
+  {
+    "id": 5,
+    "name": "Annaki_Tigers",
+    "brand": "Annaki",
+    "price": 9990,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cf/S3_Gear_Shoes_Annaki_Tigers.png"
+  },
+  {
+    "id": 6,
+    "name": "Arctic_Duck_Boots",
+    "brand": "Barazushi",
+    "price": 9200,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/81/S3_Gear_Shoes_Arctic_Duck_Boots.png"
+  },
+  {
+    "id": 7,
+    "name": "Armor_Boot_Replicas",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2c/S3_Gear_Shoes_Armor_Boot_Replicas.png"
+  },
+  {
+    "id": 8,
+    "name": "Arrow_Pull-Ons",
+    "brand": "Toni_Kensa",
+    "price": 10000,
+    "ability": "Drop_Roller",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1f/S3_Gear_Shoes_Arrow_Pull-Ons.png"
+  },
+  {
+    "id": 9,
+    "name": "Arrow_Toesies_Blu",
+    "brand": "Takoroka",
+    "price": 980,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/61/S3_Gear_Shoes_Arrow_Toesies_Blu.png"
+  },
+  {
+    "id": 10,
+    "name": "Arrow_Toesies_Purp",
+    "brand": "Takoroka",
+    "price": 3180,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5a/S3_Gear_Shoes_Arrow_Toesies_Purp.png"
+  },
+  {
+    "id": 11,
+    "name": "Baggy-Sock_Fringe_Loafs",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1e/S3_Gear_Shoes_Baggy-Sock_Fringe_Loafs.png"
+  },
+  {
+    "id": 12,
+    "name": "Banana_Basics",
+    "brand": "Krak-On",
+    "price": 400,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/06/S3_Gear_Shoes_Banana_Basics.png"
+  },
+  {
+    "id": 13,
+    "name": "Base_Fringed_Loafers",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d9/S3_Gear_Shoes_Base_Fringed_Loafers.png"
+  },
+  {
+    "id": 14,
+    "name": "Base_School_Shoes",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cb/S3_Gear_Shoes_Base_School_Shoes.png"
+  },
+  {
+    "id": 15,
+    "name": "Black_Flip-Flops",
+    "brand": "Zekko",
+    "price": 300,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/aa/S3_Gear_Shoes_Black_Flip-Flops.png"
+  },
+  {
+    "id": 16,
+    "name": "Black_Seahorses",
+    "brand": "Zink",
+    "price": 2000,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7b/S3_Gear_Shoes_Black_Seahorses.png"
+  },
+  {
+    "id": 17,
+    "name": "Black_Trainers",
+    "brand": "Tentatek",
+    "price": 500,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d7/S3_Gear_Shoes_Black_Trainers.png"
+  },
+  {
+    "id": 18,
+    "name": "BlobMob_Flip-Flops",
+    "brand": "Emberz",
+    "price": 400,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3a/S3_Gear_Shoes_BlobMob_Flip-Flops.png"
+  },
+  {
+    "id": 19,
+    "name": "Blu-Shift_Moto_Boots",
+    "brand": "Rockenberg",
+    "price": 12000,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/18/S3_Gear_Shoes_Blu-Shift_Moto_Boots.png"
+  },
+  {
+    "id": 20,
+    "name": "Blue_&_Black_Squidkid_IV",
+    "brand": "Enperry",
+    "price": 11000,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3f/S3_Gear_Shoes_Blue_%26_Black_Squidkid_IV.png"
+  },
+  {
+    "id": 21,
+    "name": "Blue_Lo-Tops",
+    "brand": "Zekko",
+    "price": 800,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/87/S3_Gear_Shoes_Blue_Lo-Tops.png"
+  },
+  {
+    "id": 22,
+    "name": "Blue_Moto_Boots",
+    "brand": "Rockenberg",
+    "price": 10800,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/92/S3_Gear_Shoes_Blue_Moto_Boots.png"
+  },
+  {
+    "id": 23,
+    "name": "Blue_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": 800,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/28/S3_Gear_Shoes_Blue_Sea_Slugs.png"
+  },
+  {
+    "id": 24,
+    "name": "Blue_Shrimpsiders",
+    "brand": "Enperry",
+    "price": 4120,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/bd/S3_Gear_Shoes_Blue_Shrimpsiders.png"
+  },
+  {
+    "id": 25,
+    "name": "Blue_Slip-Ons",
+    "brand": "Krak-On",
+    "price": 400,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/39/S3_Gear_Shoes_Blue_Slip-Ons.png"
+  },
+  {
+    "id": 26,
+    "name": "Blueberry_Casuals",
+    "brand": "Krak-On",
+    "price": 700,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/99/S3_Gear_Shoes_Blueberry_Casuals.png"
+  },
+  {
+    "id": 27,
+    "name": "Bubble_Rain_Boots",
+    "brand": "Inkline",
+    "price": 450,
+    "ability": "Drop_Roller",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/ca/S3_Gear_Shoes_Bubble_Rain_Boots.png"
+  },
+  {
+    "id": 28,
+    "name": "Chaos_Kicks",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/82/S3_Gear_Shoes_Chaos_Kicks.png"
+  },
+  {
+    "id": 29,
+    "name": "Cherry_Kicks",
+    "brand": "Rockenberg",
+    "price": 2400,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ae/S3_Gear_Shoes_Cherry_Kicks.png"
+  },
+  {
+    "id": 30,
+    "name": "Choco_Clogs",
+    "brand": "Krak-On",
+    "price": 1800,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/db/S3_Gear_Shoes_Choco_Clogs.png"
+  },
+  {
+    "id": 31,
+    "name": "Chocolate_Dakroniks",
+    "brand": "Zink",
+    "price": 1700,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2f/S3_Gear_Shoes_Chocolate_Dakroniks.png"
+  },
+  {
+    "id": 32,
+    "name": "Clownfish_Basics",
+    "brand": "Krak-On",
+    "price": 500,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/20/S3_Gear_Shoes_Clownfish_Basics.png"
+  },
+  {
+    "id": 33,
+    "name": "Crazy_Arrows",
+    "brand": "Takoroka",
+    "price": 4500,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/89/S3_Gear_Shoes_Crazy_Arrows.png"
+  },
+  {
+    "id": 34,
+    "name": "Cream_Hi-Tops",
+    "brand": "Krak-On",
+    "price": 500,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ae/S3_Gear_Shoes_Cream_Hi-Tops.png"
+  },
+  {
+    "id": 35,
+    "name": "Custom_Trail_Boots",
+    "brand": "Inkline",
+    "price": 3000,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/38/S3_Gear_Shoes_Custom_Trail_Boots.png"
+  },
+  {
+    "id": 36,
+    "name": "Cuttlefish_Sandies",
+    "brand": "Rockenberg",
+    "price": 850,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/84/S3_Gear_Shoes_Cuttlefish_Sandies.png"
+  },
+  {
+    "id": 37,
+    "name": "Cyan_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": 650,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/45/S3_Gear_Shoes_Cyan_Dadfoot_Sandals.png"
+  },
+  {
+    "id": 38,
+    "name": "Cyan_Trainers",
+    "brand": "Tentatek",
+    "price": 700,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/25/S3_Gear_Shoes_Cyan_Trainers.png"
+  },
+  {
+    "id": 39,
+    "name": "Dappled_Hammertreads",
+    "brand": "Annaki",
+    "price": 9500,
+    "ability": "Drop_Roller",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f4/S3_Gear_Shoes_Dappled_Hammertreads.png"
+  },
+  {
+    "id": 40,
+    "name": "Dark-Roast_Boaties",
+    "brand": "Rockenberg",
+    "price": 2200,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/90/S3_Gear_Shoes_Dark-Roast_Boaties.png"
+  },
+  {
+    "id": 41,
+    "name": "Desert_Chukkas",
+    "brand": "Barazushi",
+    "price": 10200,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6d/S3_Gear_Shoes_Desert_Chukkas.png"
+  },
+  {
+    "id": 42,
+    "name": "Dustcloud_Hi-Tops",
+    "brand": "Z+F",
+    "price": 8800,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/40/S3_Gear_Shoes_Dustcloud_Hi-Tops.png"
+  },
+  {
+    "id": 43,
+    "name": "E-JECT_30XX",
+    "brand": "Emberz",
+    "price": 2600,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/eb/S3_Gear_Shoes_E-JECT_30XX.png"
+  },
+  {
+    "id": 44,
+    "name": "Enchanted_Boots",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5d/S3_Gear_Shoes_Enchanted_Boots.png"
+  },
+  {
+    "id": 45,
+    "name": "Force_ReBoots",
+    "brand": "Takoroka",
+    "price": 899,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/68/S3_Gear_Shoes_Force_ReBoots.png"
+  },
+  {
+    "id": 46,
+    "name": "Fresh_Fish_Feet",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/40/S3_Gear_Shoes_Fresh_Fish_Feet.png"
+  },
+  {
+    "id": 47,
+    "name": "Fry_Tops",
+    "brand": "SquidForce",
+    "price": 0,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3f/S3_Gear_Shoes_Fry_Tops.png"
+  },
+  {
+    "id": 48,
+    "name": "Fuzzy_Boots",
+    "brand": "Barazushi",
+    "price": 3600,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/76/S3_Gear_Shoes_Fuzzy_Boots.png"
+  },
+  {
+    "id": 49,
+    "name": "Gold_Hi-Horses",
+    "brand": "Zink",
+    "price": 7000,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0e/S3_Gear_Shoes_Gold_Hi-Horses.png"
+  },
+  {
+    "id": 50,
+    "name": "Green_Rain_Boots",
+    "brand": "Inkline",
+    "price": 1600,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e8/S3_Gear_Shoes_Green_Rain_Boots.png"
+  },
+  {
+    "id": 51,
+    "name": "Green_Toejamz",
+    "brand": "Z+F",
+    "price": 1050,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b4/S3_Gear_Shoes_Green_Toejamz.png"
+  },
+  {
+    "id": 52,
+    "name": "Hero_Boot_Replicas",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a8/S3_Gear_Shoes_Hero_Boot_Replicas.png"
+  },
+  {
+    "id": 53,
+    "name": "Hero_Runner_Replicas",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7b/S3_Gear_Shoes_Hero_Runner_Replicas.png"
+  },
+  {
+    "id": 54,
+    "name": "Hunter_Hi-Tops",
+    "brand": "Krak-On",
+    "price": 500,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4f/S3_Gear_Shoes_Hunter_Hi-Tops.png"
+  },
+  {
+    "id": 55,
+    "name": "Hunting_Boots",
+    "brand": "Splash_Mob",
+    "price": 11500,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c5/S3_Gear_Shoes_Hunting_Boots.png"
+  },
+  {
+    "id": 56,
+    "name": "Hyper_Guppies",
+    "brand": "Tentatek",
+    "price": 1300,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2c/S3_Gear_Shoes_Hyper_Guppies.png"
+  },
+  {
+    "id": 57,
+    "name": "Icy_Down_Boots",
+    "brand": "Tentatek",
+    "price": 8200,
+    "ability": "Stealth_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/73/S3_Gear_Shoes_Icy_Down_Boots.png"
+  },
+  {
+    "id": 58,
+    "name": "Ink-Black_Clam_600s",
+    "brand": "Toni_Kensa",
+    "price": 11500,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f7/S3_Gear_Shoes_Ink-Black_Clam_600s.png"
+  },
+  {
+    "id": 59,
+    "name": "Kick_Dampeners",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/72/S3_Gear_Shoes_Kick_Dampeners.png"
+  },
+  {
+    "id": 60,
+    "name": "Kid_Clams",
+    "brand": "Rockenberg",
+    "price": 9500,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e7/S3_Gear_Shoes_Kid_Clams.png"
+  },
+  {
+    "id": 61,
+    "name": "Knotty_Bois",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Drop_Roller",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6e/S3_Gear_Shoes_Knotty_Bois.png"
+  },
+  {
+    "id": 62,
+    "name": "LE_Lo-Tops",
+    "brand": "Zekko",
+    "price": 8000,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/99/S3_Gear_Shoes_LE_Lo-Tops.png"
+  },
+  {
+    "id": 63,
+    "name": "LE_Soccer_Shoes",
+    "brand": "Takoroka",
+    "price": 7500,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a4/S3_Gear_Shoes_LE_Soccer_Shoes.png"
+  },
+  {
+    "id": 64,
+    "name": "Luminous_Delta_Straps",
+    "brand": "Inkline",
+    "price": 5000,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b8/S3_Gear_Shoes_Luminous_Delta_Straps.png"
+  },
+  {
+    "id": 65,
+    "name": "Mako_Bucket_Hi-Tops",
+    "brand": "Emberz",
+    "price": 2800,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/12/S3_Gear_Shoes_Mako_Bucket_Hi-Tops.png"
+  },
+  {
+    "id": 66,
+    "name": "Marinated_Slip-Ons",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7f/S3_Gear_Shoes_Marinated_Slip-Ons.png"
+  },
+  {
+    "id": 67,
+    "name": "Mawcasins",
+    "brand": "Splash_Mob",
+    "price": 2400,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a2/S3_Gear_Shoes_Mawcasins.png"
+  },
+  {
+    "id": 68,
+    "name": "Moto_Boots",
+    "brand": "Rockenberg",
+    "price": 3800,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a2/S3_Gear_Shoes_Moto_Boots.png"
+  },
+  {
+    "id": 69,
+    "name": "Navy_Red-Soled_Wingtops",
+    "brand": "Rockenberg",
+    "price": 4600,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/9c/S3_Gear_Shoes_Navy_Red-Soled_Wingtips.png"
+  },
+  {
+    "id": 70,
+    "name": "Navy_Toejamz",
+    "brand": "Z+F",
+    "price": 720,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1e/S3_Gear_Shoes_Navy_Toejamz.png"
+  },
+  {
+    "id": 71,
+    "name": "Neon_Delta_Straps",
+    "brand": "Inkline",
+    "price": 4800,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3e/S3_Gear_Shoes_Neon_Delta_Straps.png"
+  },
+  {
+    "id": 72,
+    "name": "Neon_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": 700,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/82/S3_Gear_Shoes_Neon_Sea_Slugs.png"
+  },
+  {
+    "id": 73,
+    "name": "Onyx_01STERs",
+    "brand": "Toni_Kensa",
+    "price": 8880,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3a/S3_Gear_Shoes_Onyx_01STERs.png"
+  },
+  {
+    "id": 74,
+    "name": "Orange_Arrows",
+    "brand": "Takoroka",
+    "price": 1100,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5a/S3_Gear_Shoes_Orange_Arrows.png"
+  },
+  {
+    "id": 75,
+    "name": "Orange_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": 650,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1c/S3_Gear_Shoes_Orange_Dadfoot_Sandals.png"
+  },
+  {
+    "id": 76,
+    "name": "Orange_Lo-Tops",
+    "brand": "Zekko",
+    "price": 800,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/69/S3_Gear_Shoes_Orange_Lo-Tops.png"
+  },
+  {
+    "id": 77,
+    "name": "Oyster_Clogs",
+    "brand": "Krak-On",
+    "price": 600,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ad/S3_Gear_Shoes_Oyster_Clogs.png"
+  },
+  {
+    "id": 78,
+    "name": "Pearl_01STERs",
+    "brand": "Toni_Kensa",
+    "price": 8800,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/da/S3_Gear_Shoes_Pearl_01STERs.png"
+  },
+  {
+    "id": 79,
+    "name": "Pearlescent_Kicks",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/64/S3_Gear_Shoes_Pearlescent_Kicks.png"
+  },
+  {
+    "id": 80,
+    "name": "Pink_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": 650,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0d/S3_Gear_Shoes_Pink_Dadfoot_Sandals.png"
+  },
+  {
+    "id": 81,
+    "name": "Pink_Trainers",
+    "brand": "Tentatek",
+    "price": 500,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8c/S3_Gear_Shoes_Pink_Trainers.png"
+  },
+  {
+    "id": 82,
+    "name": "Plum_Casuals",
+    "brand": "Krak-On",
+    "price": 2000,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d5/S3_Gear_Shoes_Plum_Casuals.png"
+  },
+  {
+    "id": 83,
+    "name": "Power_Boots_Mk_I",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/07/S3_Gear_Shoes_Power_Boots_Mk_I.png"
+  },
+  {
+    "id": 84,
+    "name": "Power_Boots",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/14/S3_Gear_Shoes_Power_Boots.png"
+  },
+  {
+    "id": 85,
+    "name": "Pro_Trail_Boots",
+    "brand": "Inkline",
+    "price": 9800,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ad/S3_Gear_Shoes_Pro_Trail_Boots.png"
+  },
+  {
+    "id": 86,
+    "name": "Punk_Cherries",
+    "brand": "Rockenberg",
+    "price": 9000,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/61/S3_Gear_Shoes_Punk_Cherries.png"
+  },
+  {
+    "id": 87,
+    "name": "Punk_Nights",
+    "brand": "Rockenberg",
+    "price": 8800,
+    "ability": "Intensity",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/9e/S3_Gear_Shoes_Punk_Nights.png"
+  },
+  {
+    "id": 88,
+    "name": "Punk_Pinks",
+    "brand": "Rockenberg",
+    "price": 3600,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c7/S3_Gear_Shoes_Punk_Pinks.png"
+  },
+  {
+    "id": 89,
+    "name": "Punk_Whites",
+    "brand": "Rockenberg",
+    "price": 3800,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/90/S3_Gear_Shoes_Punk_Whites.png"
+  },
+  {
+    "id": 90,
+    "name": "Punk_Yellows",
+    "brand": "Rockenberg",
+    "price": 3000,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e3/S3_Gear_Shoes_Punk_Yellows.png"
+  },
+  {
+    "id": 91,
+    "name": "Purple_Hi-Horses",
+    "brand": "Zink",
+    "price": 1000,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1b/S3_Gear_Shoes_Purple_Hi-Horses.png"
+  },
+  {
+    "id": 92,
+    "name": "Purple_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": 1800,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/36/S3_Gear_Shoes_Purple_Sea_Slugs.png"
+  },
+  {
+    "id": 93,
+    "name": "Red_&_Black_Squidkid_IV",
+    "brand": "Enperry",
+    "price": 11000,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/63/S3_Gear_Shoes_Red_%26_Black_Squidkid_IV.png"
+  },
+  {
+    "id": 94,
+    "name": "Red_&_White_Squidkid_V",
+    "brand": "Enperry",
+    "price": 12800,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/67/S3_Gear_Shoes_Red_%26_White_Squidkid_V.png"
+  },
+  {
+    "id": 95,
+    "name": "Red_3-Straps",
+    "brand": "Splash_Mob",
+    "price": 1400,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S3_Gear_Shoes_Red_3-Straps.png"
+  },
+  {
+    "id": 96,
+    "name": "Red_FishFry_Sandals",
+    "brand": "Firefin",
+    "price": 2880,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/fc/S3_Gear_Shoes_Red_FishFry_Sandals.png"
+  },
+  {
+    "id": 97,
+    "name": "Red_Hammertreads",
+    "brand": "Annaki",
+    "price": 10999,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/39/S3_Gear_Shoes_Red_Hammertreads.png"
+  },
+  {
+    "id": 98,
+    "name": "Red_Hi-Horses",
+    "brand": "Zink",
+    "price": 800,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b8/S3_Gear_Shoes_Red_Hi-Horses.png"
+  },
+  {
+    "id": 99,
+    "name": "Red_Hi-Tops",
+    "brand": "Krak-On",
+    "price": 1800,
+    "ability": "Ink_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f4/S3_Gear_Shoes_Red_Hi-Tops.png"
+  },
+  {
+    "id": 100,
+    "name": "Red_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": 8000,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d3/S3_Gear_Shoes_Red_Sea_Slugs.png"
+  },
+  {
+    "id": 101,
+    "name": "Red_Slip-ons",
+    "brand": "Krak-On",
+    "price": 300,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1f/S3_Gear_Shoes_Red_Slip-Ons.png"
+  },
+  {
+    "id": 102,
+    "name": "Red_Toejamz",
+    "brand": "Z+F",
+    "price": 940,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2a/S3_Gear_Shoes_Red_Toejamz.png"
+  },
+  {
+    "id": 103,
+    "name": "Red_Work_Boots",
+    "brand": "Rockenberg",
+    "price": 11000,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/19/S3_Gear_Shoes_Red_Work_Boots.png"
+  },
+  {
+    "id": 104,
+    "name": "Roasted_Brogues",
+    "brand": "Rockenberg",
+    "price": 1200,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8e/S3_Gear_Shoes_Roasted_Brogues.png"
+  },
+  {
+    "id": 105,
+    "name": "Samurai_Shoes",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/da/S3_Gear_Shoes_Samurai_Shoes.png"
+  },
+  {
+    "id": 106,
+    "name": "School_Shoes",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cb/S3_Gear_Shoes_Base_School_Shoes.png"
+  },
+  {
+    "id": 107,
+    "name": "Seafoam_Hi-Tops",
+    "brand": "Z+F",
+    "price": 9500,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/bb/S3_Gear_Shoes_Seafoam_Hi-Tops.png"
+  },
+  {
+    "id": 108,
+    "name": "Shark_Moccasins",
+    "brand": "Splash_Mob",
+    "price": 800,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/46/S3_Gear_Shoes_Shark_Moccasins.png"
+  },
+  {
+    "id": 109,
+    "name": "Skipjack_Work_Boots",
+    "brand": "Rockenberg",
+    "price": 4800,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/61/S3_Gear_Shoes_Skipjack_Work_Boots.png"
+  },
+  {
+    "id": 110,
+    "name": "Slamgerine_Slip-Ons",
+    "brand": "Takoroka",
+    "price": 7980,
+    "ability": "Ink_Saver_(Main)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/28/S3_Gear_Shoes_Slamgerine_Slip-Ons.png"
+  },
+  {
+    "id": 111,
+    "name": "Snow_Delta_Straps",
+    "brand": "Inkline",
+    "price": 8800,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4b/S3_Gear_Shoes_Snow_Delta_Straps.png"
+  },
+  {
+    "id": 112,
+    "name": "Snowy_Down_Boots",
+    "brand": "Tentatek",
+    "price": 8000,
+    "ability": "Quick_Super_Jump",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b6/S3_Gear_Shoes_Snowy_Down_Boots.png"
+  },
+  {
+    "id": 113,
+    "name": "Soccer_Shoes",
+    "brand": "Takoroka",
+    "price": 9600,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/de/S3_Gear_Shoes_Soccer_Shoes.png"
+  },
+  {
+    "id": 114,
+    "name": "Squid-Stitch_Slip-Ons",
+    "brand": "Krak-On",
+    "price": 1500,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/88/S3_Gear_Shoes_Squid-Stitch_Slip-Ons.png"
+  },
+  {
+    "id": 115,
+    "name": "Squinja_Boots",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8e/S3_Gear_Shoes_Squinja_Boots.png"
+  },
+  {
+    "id": 116,
+    "name": "Squink_Wingtips",
+    "brand": "Rockenberg",
+    "price": 800,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0e/S3_Gear_Shoes_Squink_Wingtips.png"
+  },
+  {
+    "id": 117,
+    "name": "Steel_Greaves",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5a/S3_Gear_Shoes_Steel_Greaves.png"
+  },
+  {
+    "id": 118,
+    "name": "Suede_Basics",
+    "brand": "Barazushi",
+    "price": 8200,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/76/S3_Gear_Shoes_Suede_Basics.png"
+  },
+  {
+    "id": 119,
+    "name": "Suede_Bosses",
+    "brand": "Barazushi",
+    "price": 8200,
+    "ability": "Object_Shredder",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f3/S3_Gear_Shoes_Suede_Bosses.png"
+  },
+  {
+    "id": 120,
+    "name": "Sunny_Climbing_Shoes",
+    "brand": "Inkline",
+    "price": 3200,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a0/S3_Gear_Shoes_Sunny_Climbing_Shoes.png"
+  },
+  {
+    "id": 121,
+    "name": "Sunset_Orca_Hi-Tops",
+    "brand": "Takoroka",
+    "price": 3800,
+    "ability": "Drop_Roller",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e6/S3_Gear_Shoes_Sunset_Orca_Hi-Tops.png"
+  },
+  {
+    "id": 122,
+    "name": "Tan_Work_Boots",
+    "brand": "Rockenberg",
+    "price": 3000,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1f/S3_Gear_Shoes_Tan_Work_Boots.png"
+  },
+  {
+    "id": 123,
+    "name": "Tenya_OctoPurps",
+    "brand": "Tentatek",
+    "price": 7980,
+    "ability": "Special_Saver",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4d/S3_Gear_Shoes_Tenya_OctoPurps.png"
+  },
+  {
+    "id": 124,
+    "name": "Tenya_OctoReds",
+    "brand": "Tentatek",
+    "price": 2900,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/08/S3_Gear_Shoes_Tenya_OctoReds.png"
+  },
+  {
+    "id": 125,
+    "name": "Trail_Boots",
+    "brand": "Inkline",
+    "price": 7500,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S3_Gear_Shoes_Trail_Boots.png"
+  },
+  {
+    "id": 126,
+    "name": "Transom_Note_Boots",
+    "brand": "Z+F",
+    "price": 9500,
+    "ability": "Run_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2e/S3_Gear_Shoes_Transom_Note_Boots.png"
+  },
+  {
+    "id": 127,
+    "name": "Turbo_Tabi_Red",
+    "brand": "Tentatek",
+    "price": 2200,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f6/S3_Gear_Shoes_Turbo_Tabi_Red.png"
+  },
+  {
+    "id": 128,
+    "name": "Turquoise_Kicks",
+    "brand": "Rockenberg",
+    "price": 2800,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/81/S3_Gear_Shoes_Turquoise_Kicks.png"
+  },
+  {
+    "id": 129,
+    "name": "U_Jellys",
+    "brand": "Tentatek",
+    "price": 2200,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a6/S3_Gear_Shoes_U_Jellys.png"
+  },
+  {
+    "id": 130,
+    "name": "Wasabi_Tabi",
+    "brand": "Tentatek",
+    "price": 10500,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/36/S3_Gear_Shoes_Wasabi_Tabi.png"
+  },
+  {
+    "id": 131,
+    "name": "White_3-Straps",
+    "brand": "Splash_Mob",
+    "price": 8700,
+    "ability": "Ink_Saver_(Sub)",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7a/S3_Gear_Shoes_White_3-Straps.png"
+  },
+  {
+    "id": 132,
+    "name": "White_Arrows",
+    "brand": "Takoroka",
+    "price": 2500,
+    "ability": "Special_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/57/S3_Gear_Shoes_White_Arrows.png"
+  },
+  {
+    "id": 133,
+    "name": "White_Clams_600s",
+    "brand": "Toni_Kensa",
+    "price": 11260,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/49/S3_Gear_Shoes_White_Clam_600s.png"
+  },
+  {
+    "id": 134,
+    "name": "White_Kicks",
+    "brand": "Rockenberg",
+    "price": 1400,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6a/S3_Gear_Shoes_White_Kicks.png"
+  },
+  {
+    "id": 135,
+    "name": "White_Lo-Vert_Hi-Tops",
+    "brand": "Barazushi",
+    "price": 10200,
+    "ability": "Sub_Power_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/16/S3_Gear_Shoes_White_Lo-Vert_Hi-Tops.png"
+  },
+  {
+    "id": 136,
+    "name": "White_Seahorses",
+    "brand": "Zink",
+    "price": 600,
+    "ability": "Ink_Recovery_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d1/S3_Gear_Shoes_White_Seahorses.png"
+  },
+  {
+    "id": 137,
+    "name": "Yellow_FishFry_Sandals",
+    "brand": "Firefin",
+    "price": 2880,
+    "ability": "Intensify_Action",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e4/S3_Gear_Shoes_Yellow_FishFry_Sandals.png"
+  },
+  {
+    "id": 138,
+    "name": "Yellow_Seahorses",
+    "brand": "Zink",
+    "price": 1500,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/ce/S3_Gear_Shoes_Yellow_Seahorses.png"
+  },
+  {
+    "id": 139,
+    "name": "Yellow_Toejamz",
+    "brand": "Z+F",
+    "price": 830,
+    "ability": "Sub_Resistance_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f2/S3_Gear_Shoes_Yellow_Toejamz.png"
+  },
+  {
+    "id": 140,
+    "name": "Zebrafish_Hi-Tops",
+    "brand": "Toni_Kensa",
+    "price": 4200,
+    "ability": "Swim_Speed_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a5/S3_Gear_Shoes_Zebrafish_Hi-Tops.png"
+  },
+  {
+    "id": 141,
+    "name": "ZedFry_Slip-ons",
+    "brand": "Z+F",
+    "price": 4200,
+    "ability": "Quick_Respawn",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ae/S3_Gear_Shoes_ZedFry_Slip-Ons.png"
+  },
+  {
+    "id": 142,
+    "name": "Zombie_Hi-Horses",
+    "brand": "Zink",
+    "price": 800,
+    "ability": "Special_Charge_Up",
+    "category": "shoes",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/eb/S3_Gear_Shoes_Zombie_Hi-Horses.png"
+  }
+ ]

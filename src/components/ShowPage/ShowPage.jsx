@@ -1,19 +1,18 @@
-import React, { Fragment, useContext } from "react"
+import React from "react"
 import styles from "./ShowPage.module.css"
-import { HideShowContext } from "../App/App";
+import { useParams } from "react-router-dom";
 
-function ShowItem ({ name, price, brand, ability, type }) {
+function ShowPage ({ name, price, brand, ability, type }) {
   const link = "https://cdn.wikimg.net/en/splatoonwiki/images/8/83/S3_Gear_Headgear_";
   const item_name = "Annaki_Beret";
   // const image_link = link + item_name + ".png";
   // const image_link = require("../src/images/hunter.jpg")
   const image_link = require("../../data/images/S3_Gear_Headgear_Annaki_Beret.png")
   const item_price = 10000;
-  const [hideShowItem, setHideShowItem] = useContext(HideShowContext);
-
+  const { id } = useParams();
   return (
     <>
-      <div style={{display: hideShowItem ? "none" : "grid"}} className={styles.showItem} id="show">
+      {/* <div className={styles.showItem}>
         <div  className={styles.itemImage}>
           <img src={image_link} alt={name}/>
         </div>
@@ -23,9 +22,18 @@ function ShowItem ({ name, price, brand, ability, type }) {
         <div className={styles.itemAbilities}>ability: {ability}</div>
         <div className={styles.itemPrice}>{price > 0 ? price : "Sold Out!"}</div>
         <button className={styles.purchaseButton}>{price > 0 ? "Buy Now!" : "Sold Out!"}</button>
-      </div>
+      </div> */}
+        <img src={image_link} alt={name} style={{
+          position: "fixed",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+          width: "20%",
+          // height: "40%"
+          height: "auto",
+        }} />
     </>
   );
 }
 
-export default ShowItem;
+export default ShowPage;
