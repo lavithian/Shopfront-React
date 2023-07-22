@@ -6,9 +6,14 @@ function LandingPage () {
 
   return (
     <div>
-      <Link to="/home">
-        Landing Page
+      <Link to="/home" style={{ fontSize: 28 }}>
+        <h1>Landing Page</h1>
       </Link>
+      Style your style with...
+      <br />
+      Headgear
+      Clothes
+      Shoes
     </div>
   )
 }

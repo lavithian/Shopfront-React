@@ -1,32 +1,37 @@
 import React from "react";
 import styles from "./DisplayCard.module.css"
 import useDisplayCard from "./hooks/useDisplayCard"
-import { Link, useParams } from "react-router-dom";
+import { Link, Navigate, NavLink } from "react-router-dom";
 
-function DisplayCard ({ id, name, price, brand, ability, type }) {
-  const { showTags, setShowTags } = useDisplayCard();
-
-  const link = "https://cdn.wikimg.net/en/splatoonwiki/images/8/83/S3_Gear_Headgear_";
-  const item_name = "Annaki_Beret";
-  // const image_link = link + item_name + ".png";
-  const image_link2 = "../images/S3_Gear_Headgear_Annaki_Beret.png"
-  const image_link = require("../../../data/images/S3_Gear_Headgear_Annaki_Beret.png")
-
-
+function DisplayCard ({ id, name, price, brand, ability, category, image, centre }) {
+  const dataToSend = { name, price, brand, ability, category, image }
+  // const navigate = useNavigate();
+  // navigate(centre ? { pathname: `${category}/${id}`, state: dataToSend } : '#')
   return (
-    <div className={styles.displayCard}
-      // onClick={displayShowPage}
-      // key={props.name}
-    >
-      <div className={styles.displayImage} onMouseEnter={() => setShowTags(true)}
-      onMouseLeave={() => setShowTags(false)}>
-        <Link to={`${type}/${id}`}>
-          <img src={image_link} alt={name} className={styles.displayImage} />
+    <div className={styles.displayCard}>
+      <div className={styles.displayCategory}>{category}</div>
+      <div className={styles.displayName}><h1>{name.replace(/\_/g, ' ')}</h1></div>
+      <div className={styles.displayBrand}>{brand}</div>
+      <div className={styles.displayImage}>
+        {/* <Link to={centre ? { pathname: `${category}/${id}`, state: "dataToSend" } : '#'}> */}
+        <Link to={centre ? `${category}/${id}` : '#'} state={centre ? dataToSend : null}>
+          <img src={image} alt={name} className={styles.displayImage} />
         </Link>
+        {/* <Navigate to={centre ? { pathname: `${category}/${id}`, state: "hi" } : '#'}>
+          <img src={image} alt={name} className={styles.displayImage} />
+        </Navigate> */}
+        {/* <NavLink to={centre ? { pathname: `${category}/${id}`, state: "hi" } : '#'}>
+          <img src={image} alt={name} className={styles.displayImage} />
+        </NavLink> */}
       </div>
-      <div className={`${styles.displayDesc} ${showTags ? '' : styles.hideDesc}`}>
-        <div className={styles.itemName} >{name ? name.replace(/\_/g, ' ') : ''}</div>
-        <div className={styles.itemPrice} >{price > 0 ? price : "Sold Out!"}</div>
+      <div className={price > 0 ? styles.displayPrice : styles.displaySoldOutPrice}>
+      {price > 0 ? price : "SOLD OUT!"}
+      </div>
+      <div className={styles.displayButton}>
+        <label className={styles.switch}>
+          <input type="checkbox"></input>
+          <span className={styles.slider}></span>
+        </label>
       </div>
     </div>
   );

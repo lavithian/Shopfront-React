@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 // images/S3_Gear_Headgear_Annaki_Beret.png
 // import Image from "./images/S3_Gear_Headgear_Annaki_Beret";
@@ -17,11 +16,9 @@ const image_link2 = "../images/S3_Gear_Headgear_Annaki_Beret.png"
 
 const useDisplayCard = (props) => {
 
-  const [showTags, setShowTags] = useState(false);
-
   // const imageLink = require("../../data/images/S3_Gear_Headgear_Annaki_Beret.png");
 
-  return { showTags, setShowTags }
+
 }
 
 export default useDisplayCard;

@@ -11,8 +11,7 @@ function Home () {
   return (
     <>
       <div style={isSearchTabOpen ? {filter: "blur(10px)"} : {}}>
-        <h1 style={{backgroundColor: "red"}}>Hello</h1>
-        <div onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/></div>
+        {/* <div onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/></div> */}
         <DisplayCardContainer />
       </div>
     </>

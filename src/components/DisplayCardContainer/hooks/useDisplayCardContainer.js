@@ -7,6 +7,7 @@ import shoesData from "../../../data/shoes_data.json";
 function useDisplayCardContainer () {
   const [gearType, setGearType] = useState("all");
   const [showSelection, setShowSelection] = useState(true);
+  const [currentIndex, setCurrentIndex] = useState(0);
   let gearArray = gearList(gearType);
 
 
@@ -30,7 +31,17 @@ function useDisplayCardContainer () {
     }
   }
 
-  return { gearType, selectGearType, gearArray };
+  function gotoPrevious () {
+    const newCardIndex = currentIndex === 0 ? gearArray.length - 1 : currentIndex - 1;
+    setCurrentIndex(newCardIndex);
+  }
+
+  function gotoNext () {
+    const newCardIndex = currentIndex === gearArray.length - 1 ? 0 : currentIndex + 1;
+    setCurrentIndex(newCardIndex);
+  }
+
+  return { gearType, selectGearType, gearArray, currentIndex, gotoPrevious, gotoNext };
 }
 
 export default useDisplayCardContainer;
