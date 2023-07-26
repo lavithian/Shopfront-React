@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import headgearData from "../../../data/headgear_data.json";
-import clothingData from "../../../data/clothing_data.json";
-import shoesData from "../../../data/shoes_data.json";
+import headgearData from "../../../data/headgear/headgear_data.json";
+import clothingData from "../../../data/clothing/clothing_data.json";
+import shoesData from "../../../data/shoes/shoes_data.json";
 
 function useDisplayCardContainer () {
   const [gearType, setGearType] = useState("all");
