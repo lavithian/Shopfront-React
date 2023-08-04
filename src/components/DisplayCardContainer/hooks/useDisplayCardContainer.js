@@ -1,47 +1,46 @@
-import { useState } from "react";
-
-import headgearData from "../../../data/headgear/headgear_data.json";
-import clothingData from "../../../data/clothing/clothing_data.json";
-import shoesData from "../../../data/shoes/shoes_data.json";
+import { useRef, useState } from "react";
+import headgearData from "../../../data/headgear/index"
+import clothingData from "../../../data/clothing/index"
+import shoesData from "../../../data/shoes/index"
 
 function useDisplayCardContainer () {
-  const [gearType, setGearType] = useState("all");
-  const [showSelection, setShowSelection] = useState(true);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  let gearArray = gearList(gearType);
+  const [currentGear, setCurrentGear] = useState(headgearData)
+  const [currentBrand, setCurrentBrand] = useState("Annaki")
+  const [currentArray, setCurrentArray] = useState(headgearData)
 
+  const sliderRef = useRef(null)
 
-  function selectGearType(type) {
-    setGearType(type);
-    gearArray = gearList(gearType);
-    setShowSelection(false);
+  const setArray = () => {
+    // console.log(masterArray[categoryArray])
+    // console.log(masterArray[0])
+
+    // setCurrentArray(newArray)
+    // if (categoryArray === "headgear") {
+    //   setCurrentArray(headgearData)
+    // } else if (categoryArray === "clothing") {
+    //   setCurrentArray(clothingData)
+    // } else if (categoryArray === "shoes") {
+    //   setCurrentArray(shoesData)
+    // } else {
+    //   throw new Error("Wrong Gear category");
+    // }
+    // setCurrentArray(masterArray[0][0])
   }
 
-  function gearList (type) {
-    if (type === "headgear") {
-      return headgearData;
-    } else if (type === "clothing") {
-      return clothingData
-    } else if (type ==="shoes") {
-      return shoesData;
-    } else if (type === "all") {
-      return headgearData.concat(clothingData, shoesData);
-    } else {
-      throw new Error(`Invalidgear type: ${type}`);
-    }
-  }
+  const settings = {
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    centerMode: true,
+    focusOnSelect: true,
+    // afterChange: () => setUpdateCount(prevCount => prevCount + 1),
+    // beforeChange: (current, next) => setCurrentSlide(next)
 
-  function gotoPrevious () {
-    const newCardIndex = currentIndex === 0 ? gearArray.length - 1 : currentIndex - 1;
-    setCurrentIndex(newCardIndex);
-  }
+  };
 
-  function gotoNext () {
-    const newCardIndex = currentIndex === gearArray.length - 1 ? 0 : currentIndex + 1;
-    setCurrentIndex(newCardIndex);
-  }
-
-  return { gearType, selectGearType, gearArray, currentIndex, gotoPrevious, gotoNext };
+  return { setArray, settings, sliderRef, currentArray, currentBrand, currentGear};
 }
 
 export default useDisplayCardContainer;

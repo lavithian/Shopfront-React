@@ -12,9 +12,9 @@ function App () {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<LandingPage />} />
-        <Route path="/home/headgear/:id" element={<ShowPage />} />
-        <Route path="/home/clothing/:id" element={<ShowPage />} />
-        <Route path="/home/shoes/:id" element={<ShowPage />} />
+        <Route path="/headgear/:id" element={<ShowPage />} />
+        <Route path="/clothing/:id" element={<ShowPage />} />
+        <Route path="/shoes/:id" element={<ShowPage />} />
         <Route path="/home" element={<Home />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
