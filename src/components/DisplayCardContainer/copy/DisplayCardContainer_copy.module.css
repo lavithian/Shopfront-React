@@ -5,18 +5,17 @@
   grid-template-columns: calc(100vw * 2/7) calc(100vw * 3/7) calc(100vw * 2/7);
   grid-template-rows: calc(100vh * 1/5) calc(100vh * 3/5) calc(100vh * 1/5);
   grid-template-areas:
-  "logo prevbrand cart"
-  "previtem centre nextitem"
-  "leftempty nextbrand rightempty";
+  "logo previtem cart"
+  "carousel carousel carousel"
+  "leftempty nextitem rightempty";
   position: relative;
   top: 0;
   left: 0;
-  grid-gap: 1rem 1rem;
+  /* grid-gap: 10px 10px; */
   justify-items: center;
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: #28231D;
   overflow: hidden;
 }
 
@@ -24,7 +23,6 @@
   width: calc(100vw * (2/7));
   height: calc(100vh * (1/5));
   grid-area: logo;
-  border-bottom-right-radius: 100px;
 }
 
 .previousBrand {
@@ -32,7 +30,7 @@
   width: calc(100vw * (3/7));
   height: calc(100vh * (3/5));
   top: -247%;
-  grid-area: prevbrand;
+  grid-area: previtem;
 }
 
 .cart {
@@ -40,8 +38,6 @@
   height: calc(100vh * (1/5));
   /* grid-area: 2 / 3 / 1 / 3 */
   grid-area: cart;
-
-  border-bottom-left-radius: 100px;
 }
 
 .previousItem {
@@ -50,10 +46,7 @@
   width: calc(100vw * (3/7));
   height: calc(100vh * (3/5));
   left: -75%;
-  grid-area: previtem;
-
-  display: flex;
-  justify-content: center;
+  grid-area: prevbrand;
 }
 
 .centrePiece {
@@ -61,9 +54,6 @@
   width: calc(100vw * (3/7));
   height: calc(100vh * (3/5));
   grid-area: centre;
-
-  display: flex;
-  justify-content: center;
 }
 
 .nextItem {
@@ -72,21 +62,7 @@
   width: calc(100vw * (3/7));
   height: calc(100vh * (3/5));
   right: -75%;
-  grid-area: nextitem;
-
-  display: flex;
-  justify-content: center;
-}
-
-.searchButton {
-  width: calc(100vw * (2/7));
-  height: calc(100vh * (1/5));
-  grid-area: leftempty;
-
-
-  display: flex;
-  justify-content: center;
-  border-top-right-radius: 100px;
+  grid-area: nextbrand;
 }
 
 .nextBrand {
@@ -95,16 +71,25 @@
   width: calc(100vw * (3/7));
   height: calc(100vh * (3/5));
   bottom: -247%;
-  grid-area: nextbrand;
-
-  display: flex;
-  justify-content: center;
+  grid-area: nextitem;
 }
 
-.categorySwitch {
+.searchButton {
+  width: calc(100vw * (2/7));
+  height: calc(100vh * (1/5));
+  grid-area: leftempty;
+}
+
+
+.changeCategory {
   width: calc(100vw * (2/7));
   height: calc(100vh * (1/5));
   grid-area: rightempty;
+}
 
-  border-top-left-radius: 100px;
+.carousel {
+  grid-area: carousel;
+  background-color: purple;
+  width: 100%;
+  height: 100%;
 }
