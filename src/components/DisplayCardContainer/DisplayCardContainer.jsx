@@ -49,3 +49,10 @@ function DisplayCardContainer() {
 }
 
 export default DisplayCardContainer;
+
+// array[][].name
+// headgear[brand][item].name
+// clothing[brand][item]
+// click to change category
+// up and down change brand
+// left and right change item
