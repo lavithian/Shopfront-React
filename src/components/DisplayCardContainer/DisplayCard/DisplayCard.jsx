@@ -34,10 +34,4 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
   );
 };
 
-// Gear type
-// Gear name
-// brand
-// price
-// Picture
-
 export default DisplayCard

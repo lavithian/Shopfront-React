@@ -21,8 +21,6 @@ function useShowPage () {
     return null;
   }
 
-
-
   return { getAbilityImageByName, getBrandImageByName }
 }
 
