@@ -8,7 +8,7 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
   const dataToSend = { id, category, name, brand, price, ability, image, description }
 
   if (!id || !category || !name || !brand || !image) {
-    return null; // If any required prop is null, don't render anything
+    return null;
   }
 
   return (
