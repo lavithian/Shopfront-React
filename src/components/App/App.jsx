@@ -1,6 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
-import { getFont } from "./hooks/useApp";
+import { BrowserRouter, Routes, Route} from "react-router-dom"
 import styles from "./App.module.css"
 import Home from "../Home"
 import ShowPage from '../ShowPage';

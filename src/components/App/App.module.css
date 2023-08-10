@@ -2,3 +2,11 @@
   font-family: Splatoon;
   src: url("../../fonts/Splatoon2.otf") format("opentype");
 }
+
+:root {
+  --colour-black: #000000;
+  --colour-white: #FFFFFF;
+  --colour-red: #FF3A20;
+  --colour-purple: #731DD8;
+  --colour-grey: #858786;
+}

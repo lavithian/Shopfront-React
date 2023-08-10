@@ -4,7 +4,13 @@ import useDisplayCard from "./hooks/useDisplayCard"
 import { Link, Navigate, NavLink } from "react-router-dom";
 
 function DisplayCard ({ id, category, name, brand, price, ability, image, description }) {
+  const {  } = useDisplayCard();
   const dataToSend = { id, category, name, brand, price, ability, image, description }
+
+  if (!id || !category || !name || !brand || !image) {
+    return null; // If any required prop is null, don't render anything
+  }
+
   return (
     <div className={styles.displayCard}>
       <div className={styles.displayCategory}><h3>{category}</h3></div>

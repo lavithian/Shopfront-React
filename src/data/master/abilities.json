@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Comeback",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/09/S3_Ability_Comeback.png"
+  },
+  {
+    "id": 2,
+    "name": "Drop_Roller",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/05/S3_Ability_Drop_Roller.png"
+  },
+  {
+    "id": 3,
+    "name": "Haunt",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2b/S3_Ability_Haunt.png"
+  },
+  {
+    "id": 4,
+    "name": "Ink_Recovery_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3c/S3_Ability_Ink_Recovery_Up.png"
+  },
+  {
+    "id": 5,
+    "name": "Ink_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6d/S3_Ability_Ink_Resistance_Up.png"
+  },
+  {
+    "id": 6,
+    "name": "Ink_Saver_(Main)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/35/S3_Ability_Ink_Saver_%28Main%29.png"
+  },
+  {
+    "id": 7,
+    "name": "Ink_Saver_(Sub)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a2/S3_Ability_Ink_Saver_%28Sub%29.png"
+  },
+  {
+    "id": 8,
+    "name": "Intensify_Action",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/52/S3_Ability_Intensify_Action.png"
+  },
+  {
+    "id": 9,
+    "name": "Last-Ditch_Effort",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c7/S3_Ability_Last-Ditch_Effort.png"
+  },
+  {
+    "id": 10,
+    "name": "Ninja_Squid",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/78/S3_Ability_Ninja_Squid.png"
+  },
+  {
+    "id": 11,
+    "name": "Object_Shredder",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f0/S3_Ability_Object_Shredder.png"
+  },
+  {
+    "id": 12,
+    "name": "Opening_Gambit",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b3/S3_Ability_Opening_Gambit.png"
+  },
+  {
+    "id": 13,
+    "name": "Quick_Respawn",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/98/S3_Ability_Quick_Respawn.png"
+  },
+  {
+    "id": 14,
+    "name": "Quick_Super_Jump",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d5/S3_Ability_Quick_Super_Jump.png"
+  },
+  {
+    "id": 15,
+    "name": "Random",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d7/Ability_Locked.svg"
+  },
+  {
+    "id": 16,
+    "name": "Respawn_Punisher",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/68/S3_Ability_Respawn_Punisher.png"
+  },
+  {
+    "id": 17,
+    "name": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a0/S3_Ability_Run_Speed_Up.png"
+  },
+  {
+    "id": 18,
+    "name": "Special_Charge_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/97/S3_Ability_Special_Charge_Up.png"
+  },
+  {
+    "id": 19,
+    "name": "Special_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ea/S3_Ability_Special_Power_Up.png"
+  },
+  {
+    "id": 20,
+    "name": "Special_Saver",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e0/S3_Ability_Special_Saver.png"
+  },
+  {
+    "id": 21,
+    "name": "Stealth_Jump",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5a/S3_Ability_Stealth_Jump.png"
+  },
+  {
+    "id": 22,
+    "name": "Sub_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/61/S3_Ability_Sub_Power_Up.png"
+  },
+  {
+    "id": 23,
+    "name": "Sub_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d4/S3_Ability_Sub_Resistance_Up.png"
+  },
+  {
+    "id": 24,
+    "name": "Swim_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/61/S3_Ability_Swim_Speed_Up.png"
+  },
+  {
+    "id": 25,
+    "name": "Tenacity",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/60/S3_Ability_Tenacity.png"
+  },
+  {
+    "id": 26,
+    "name": "Thermal_Ink",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/33/S3_Ability_Thermal_Ink.png"
+  }
+]
