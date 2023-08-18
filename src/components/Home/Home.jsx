@@ -17,6 +17,8 @@ function Home() {
     setArray,
     setCurrentBrand,
     setIsSearchTabOpen,
+    getNextBrand,
+    getPreviousBrand
   } = useHome();
 
   return (
@@ -29,6 +31,8 @@ function Home() {
         }
         className={`${styles.homeWrapper}`}
       >
+        <div className={styles.previousBrand}>▲{getNextBrand(currentBrand)}▲</div>
+        <div className={styles.nextBrand}>▼{getNextBrand(currentBrand)}▼</div>
         <div className={`${styles.logo} ${styles.corners}`}>
           <BrandLogo currentBrand={currentBrand} />
         </div>
@@ -44,8 +48,8 @@ function Home() {
           <CategorySwitch />
         </div>
         <DisplayCardContainer
-          gearList={gearArray}
-          brandList={brandList}
+          gearList={gearArray[currentBrand]}
+          currentBrand={currentBrand}
           setCurrentBrand={setCurrentBrand}
         />
       </div>

@@ -5,19 +5,19 @@ import "./slick-theme.css";
 import styles from "./DisplayCardContainer.module.css";
 
 import useDisplayCardContainer from "./hooks/useDisplayCardContainer";
-import DisplayCardCarousel from "./DisplayCardCarousel/DisplayCardCarousel";
+import DisplayCard from "./DisplayCard/DisplayCard";
 
 
-function DisplayCardContainer({ gearList, brandList, setCurrentBrand }) {
+function DisplayCardContainer({ gearList }) {
   const { settings } = useDisplayCardContainer();
 
   return (
     <div className={styles.container}>
       <Slider {...settings}>
       {
-        brandList.map((brandItem) => (
+        gearList.map((item) => (
           <div>
-            <DisplayCardCarousel key={brandItem.id} itemList={gearList[brandItem.brand]} />
+            <DisplayCard {...item}/>
           </div>
         ))
       }
