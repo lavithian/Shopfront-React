@@ -6,11 +6,10 @@ import brandList from "../../../data/master/brands.json";
 
 const useHome = () => {
   const [isSearchTabOpen, setIsSearchTabOpen] = useState(false);
-  const [gearArray, setGearArray] = useState(headgearData)
-  const [currentBrand, setCurrentBrand] = useState("Annaki")
+  const [gearArray, setGearArray] = useState(headgearData);
+  const [currentBrand, setCurrentBrand] = useState("Annaki");
   const [previousBrand, setPreviousBrand] = useState();
-  const [nextbrand, setNextbrand] = useState()
-
+  const [nextBrand, setNextBrand] = useState();
 
   const setArray = () => {
     if (gearArray === headgearData) {
@@ -24,17 +23,17 @@ const useHome = () => {
     }
   }
 
-  // function getBrandId(brandName) {
-  //   let modifiedBrandName = modifyBrandName(brandName);
+  function getBrandId(brandName) {
+    let modifiedBrandName = modifyBrandName(brandName);
 
-  //   for (const brandObj of brandList) {
-  //     if (brandObj.brand === modifiedBrandName) {
-  //       return brandObj.id;
-  //     }
-  //   }
+    for (const brandObj of brandList) {
+      if (brandObj.brand === modifiedBrandName) {
+        return brandObj.id;
+      }
+    }
 
-  //   return null; // Return null if the brand is not found
-  // }
+    return null; // Return null if the brand is not found
+  }
 
   function getBrandNameById(id) {
     for (const brandObj of brandList) {
@@ -45,20 +44,12 @@ const useHome = () => {
     return null; // Return null if the ID is not found
   }
 
-  function getPreviousBrand (currentBrand) {
-    // find the id of the current brand
-
-    if (currentBrand === 'amiibo') {
-      return getBrandNameById(21);
+  function getBrandColourbyId(id) {
+    for (const brandObj of brandList) {
+      if (brandObj.id == id) {
+        return brandObj.colour;
+      }
     }
-    return getBrandNameById(currentBrand - 1);
-  }
-
-  function getNextBrand () {
-    if (currentBrand === 'Zink') {
-      return getBrandNameById(1);
-    }
-    return getBrandNameById(currentBrand + 1);
   }
 
   function closeSearchTab (e) {
@@ -67,7 +58,27 @@ const useHome = () => {
     };
   }
 
-  return { isSearchTabOpen, setIsSearchTabOpen, closeSearchTab, gearArray, setArray, brandList, currentBrand, setCurrentBrand, getNextBrand, getPreviousBrand }
+  const modifyBrandName = brandName => {
+    let modifiedBrandName = brandName;
+
+    if (brandName === "Z+F") {
+      modifiedBrandName = "ZF";
+    } else if (brandName === "Krak-On") {
+      modifiedBrandName = "KrakOn";
+    }
+
+    return modifiedBrandName;
+  }
+
+  const goToNextBrand = () => {
+    setCurrentBrand(nextBrand)
+  }
+
+  const goToPrevBrand = () => {
+    setCurrentBrand(previousBrand)
+  }
+
+  return { isSearchTabOpen, setIsSearchTabOpen, closeSearchTab, gearArray, setArray, brandList, currentBrand, setCurrentBrand, setNextBrand, setPreviousBrand, modifyBrandName, previousBrand, nextBrand, getBrandId, getBrandNameById, goToNextBrand, goToPrevBrand }
 }
 
 export default useHome;

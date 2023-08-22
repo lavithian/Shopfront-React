@@ -14,8 +14,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     "image image"
     "button button";
 
-  width: 95%;
-  height: 95%;
+  width: 100%;
+  height:100%;
 
   margin: auto;
   background-color: #f0eBD8;

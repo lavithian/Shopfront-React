@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import useHome from "./hooks/useHome";
 import styles from "./Home.module.css";
 import SearchTab from "../SearchTab";
@@ -17,9 +17,27 @@ function Home() {
     setArray,
     setCurrentBrand,
     setIsSearchTabOpen,
-    getNextBrand,
-    getPreviousBrand
+    modifyBrandName,
+    previousBrand,
+    setPreviousBrand,
+    nextBrand,
+    setNextBrand,
+    getBrandNameById,
+    getBrandId,
+    goToNextBrand,
+    goToPrevBrand,
   } = useHome();
+
+  useEffect(() => {
+    const maxId = brandList.length
+    const num = getBrandId(currentBrand)
+    const nextID = num + 1 > maxId ? 1 : num + 1
+    const prevID = num - 1 < 1 ? maxId : num - 1;
+    const nextBrandName = modifyBrandName(getBrandNameById(nextID));
+    const prevBrandName = modifyBrandName(getBrandNameById(prevID));
+    setNextBrand(nextBrandName)
+    setPreviousBrand(prevBrandName)
+  }, [currentBrand])
 
   return (
     <>
@@ -31,8 +49,12 @@ function Home() {
         }
         className={`${styles.homeWrapper}`}
       >
-        <div className={styles.previousBrand}>▲{getNextBrand(currentBrand)}▲</div>
-        <div className={styles.nextBrand}>▼{getNextBrand(currentBrand)}▼</div>
+        <div className={`${styles.previousBrand} ${styles.brandButton}`} onClick={goToPrevBrand}>
+          ▲{previousBrand}▲
+        </div>
+        <div className={`${styles.nextBrand} ${styles.brandButton}`} onClick={goToNextBrand}>
+          ▼{nextBrand}▼
+        </div>
         <div className={`${styles.logo} ${styles.corners}`}>
           <BrandLogo currentBrand={currentBrand} />
         </div>
@@ -47,11 +69,13 @@ function Home() {
         >
           <CategorySwitch />
         </div>
-        <DisplayCardContainer
-          gearList={gearArray[currentBrand]}
-          currentBrand={currentBrand}
-          setCurrentBrand={setCurrentBrand}
-        />
+        <div className={styles.carousel}>
+          <DisplayCardContainer
+            gearList={gearArray[currentBrand]}
+            currentBrand={currentBrand}
+            setCurrentBrand={setCurrentBrand}
+          />
+        </div>
       </div>
     </>
   );
