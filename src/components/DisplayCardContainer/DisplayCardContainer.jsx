@@ -1,8 +1,9 @@
 import React from "react";
 import Slider from "react-slick";
-// import "./slick.css";
-import "./slick2.css";
-// import "./slick-theme.css";
+import "./slick.css";
+// import "./slick2.css";
+import "./slick-gap.css"
+import "./slick-theme.css";
 import styles from "./DisplayCardContainer.module.css";
 
 import useDisplayCardContainer from "./hooks/useDisplayCardContainer";
@@ -17,9 +18,9 @@ function DisplayCardContainer({ gearList }) {
       <Slider {...settings}>
       {
         gearList.map((item) => (
-          <div>
+          // <div>
             <DisplayCard {...item}/>
-          </div>
+          // </div>
         ))
       }
       </Slider>

@@ -39,6 +39,17 @@ function Home() {
     setPreviousBrand(prevBrandName)
   }, [currentBrand])
 
+  // When I click on the search button, the search comes up
+  // the search should have the search bar
+  // the search should also have check boxes
+  // when the search is submitted, it should create an array
+  // the array should then be presented to the current
+
+  // I should be able to reset
+  // I should be able to search again
+
+  //
+
   return (
     <>
       <div
@@ -61,8 +72,8 @@ function Home() {
         <div className={`${styles.cart} ${styles.corners}`}>
           <Cart />
         </div>
-        <div className={`${styles.search} ${styles.corners}`}>Search</div>
-        {/* <div onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/></div> */}
+        {/* <div className={`${styles.search} ${styles.corners}`}>Search</div> */}
+        <div className={`${styles.search} ${styles.corners}`} onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/>Search</div>
         <div
           className={`${styles.switch} ${styles.corners}`}
           onClick={setArray}

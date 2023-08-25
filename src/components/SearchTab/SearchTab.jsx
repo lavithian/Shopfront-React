@@ -1,8 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { useSearchParams } from "react-router-dom";
 import styles from "./SearchTab.module.css";
+import useSearchTab from "./hooks/useSearchTab";
 
 function SearchTab({ isSearchTabOpen: isOpen, setIsSearchTabOpen: setIsOpen, children }) {
+  // useSearchParams
+
+
   return ReactDOM.createPortal (
     <>
       <div className={isOpen ? styles.overlay : ""} />
@@ -31,6 +36,9 @@ function SearchTab({ isSearchTabOpen: isOpen, setIsSearchTabOpen: setIsOpen, chi
           </div>
         </form>
         brand
+        {
+          
+        }
         <form className={styles.brands}>
           <div>
             <label htmlFor="Annaki">Annaki</label>

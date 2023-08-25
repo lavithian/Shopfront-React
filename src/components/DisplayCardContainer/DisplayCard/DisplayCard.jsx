@@ -12,6 +12,7 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
   }
 
   return (
+    <>
     <div className={styles.displayCard}>
       <div className={styles.displayCategory}><h3>{category}</h3></div>
       <div className={styles.displayName}><h1>{name.replace(/\_/g, ' ')}</h1></div>
@@ -31,6 +32,7 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
         </label>
       </div>
     </div>
+    </>
   );
 };
 
