@@ -1,29 +1,23 @@
 import React from "react";
-import Slider from "react-slick";
-import "./slick.css";
-// import "./slick2.css";
-import "./slick-gap.css"
-import "./slick-theme.css";
-import styles from "./DisplayCardContainer.module.css";
-
+import styles from "./DisplayCardContainer.module.scss";
 import useDisplayCardContainer from "./hooks/useDisplayCardContainer";
 import DisplayCard from "./DisplayCard/DisplayCard";
 
 
 function DisplayCardContainer({ gearList }) {
-  const { settings } = useDisplayCardContainer();
+  const { dragStart, dragEnd, dragging, onCardClick, isDragging, carouselScroll, cardClick } = useDisplayCardContainer();
 
   return (
     <div className={styles.container}>
-      <Slider {...settings}>
+      <ul className={`${styles.carousel}`} style={!isDragging ? { scrollSnapType: "x mandatory", scrollBehavior: "smooth", scrollSnapAlign: "start"} : {}} ref={carouselScroll} onMouseMove={dragging} onMouseDown={dragStart} onMouseUp={dragEnd}>
       {
-        gearList.map((item) => (
-          // <div>
-            <DisplayCard {...item}/>
-          // </div>
+        gearList.map((item, index) => (
+          <li key={index} className={styles.card} ref={cardClick} onClick={(e) => onCardClick(e, index)}>
+            <DisplayCard {...item} />
+          </li>
         ))
       }
-      </Slider>
+      </ul>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 // import headgearData from "@/data/headgear/index";
-// import headgearData from "../../../data/headgear/index";
-import headgearData from "/home/treece/code/React/Shopfront/src/data/headgear/index";
+import headgearData from "../../../data/headgear/index";
+// import headgearData from "/home/treece/code/React/Shopfr ont/src/data/headgear/index";
 // import clothingData from "@/clothing/index";
 import clothingData from "../../../data/clothing/index";
 // import shoesData from "@/shoes/index";
@@ -8,9 +8,6 @@ import shoesData from "../../../data/shoes/index";
 // import brandList from "@/master/brands.json";
 import brandList from "../../../data/master/brands.json";
 import { useState } from "react";
-
-// "/home/treece/code/React/Shopfront/src/data/headgear/index"
-// "/home/treece/code/React/Shopfront/src/data/headgear/index"
 
 function useSearchTab() {
   // const [searchInput, setSearchInput] = useState('');
@@ -23,7 +20,7 @@ function useSearchTab() {
     // if (searchInput.length > 0) {
     //   filter list
     // }
-
+ 
   }
 
   // function closeFilterTab (e) {

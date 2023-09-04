@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { useSearchParams } from "react-router-dom";
-import styles from "./SearchTab.module.css";
+import styles from "./SearchTab.module.scss";
 import useSearchTab from "./hooks/useSearchTab";
 
 function SearchTab({ isSearchTabOpen: isOpen, setIsSearchTabOpen: setIsOpen, children }) {
@@ -37,7 +37,7 @@ function SearchTab({ isSearchTabOpen: isOpen, setIsSearchTabOpen: setIsOpen, chi
         </form>
         brand
         {
-          
+
         }
         <form className={styles.brands}>
           <div>

@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./DisplayCard.module.css"
+import styles from "./DisplayCard.module.scss"
 import useDisplayCard from "./hooks/useDisplayCard"
 import { Link, Navigate, NavLink } from "react-router-dom";
 
@@ -7,7 +7,7 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
   const {  } = useDisplayCard();
   const dataToSend = { id, category, name, brand, price, ability, image, description }
 
-  if (!id || !category || !name || !brand || !image) {
+  if (!id || !category || !name || !brand || !image || !description) {
     return null;
   }
 
@@ -22,15 +22,15 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
           <img src={image} alt={name} className={styles.displayImage} />
         </Link>
       </div>
-      <div className={price > 0 ? styles.displayPrice : styles.displaySoldOutPrice}>
+      <div className={styles.displayPrice}>
       {price > 0 ? price : "SOLD OUT!"}
       </div>
-      <div className={styles.displayButton}>
+      {/* <div className={styles.displayButton}>
         <label className={styles.switch}>
           <input type="checkbox"></input>
           <span className={styles.slider}></span>
         </label>
-      </div>
+      </div> */}
     </div>
     </>
   );

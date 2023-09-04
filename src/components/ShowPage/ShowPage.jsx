@@ -1,6 +1,6 @@
 import React from "react"
 import { useLocation } from "react-router-dom";
-import styles from "./ShowPage.module.css"
+import styles from "./ShowPage.module.scss"
 import useShowPage from "./hooks/useShowPage";
 import moneyIcon from "../../data/images/S3_Icon_Cash.png";
 

@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import useHome from "./hooks/useHome";
-import styles from "./Home.module.css";
+import styles from "./Home.module.scss";
 import SearchTab from "../SearchTab";
 import DisplayCardContainer from "../DisplayCardContainer";
 import BrandLogo from "../BrandLogo";
@@ -39,56 +39,43 @@ function Home() {
     setPreviousBrand(prevBrandName)
   }, [currentBrand])
 
-  // When I click on the search button, the search comes up
-  // the search should have the search bar
-  // the search should also have check boxes
-  // when the search is submitted, it should create an array
-  // the array should then be presented to the current
-
-  // I should be able to reset
-  // I should be able to search again
-
-  //
-
   return (
-    <>
-      <div
-        style={
-          isSearchTabOpen
-            ? { filter: "blur(10px)", backgroundColor: `#${currentBrand}` }
-            : { backgroundColor: `#${currentBrand}` }
-        }
-        className={`${styles.homeWrapper}`}
-      >
-        <div className={`${styles.previousBrand} ${styles.brandButton}`} onClick={goToPrevBrand}>
-          ▲{previousBrand}▲
-        </div>
-        <div className={`${styles.nextBrand} ${styles.brandButton}`} onClick={goToNextBrand}>
-          ▼{nextBrand}▼
-        </div>
-        <div className={`${styles.logo} ${styles.corners}`}>
-          <BrandLogo currentBrand={currentBrand} />
-        </div>
-        <div className={`${styles.cart} ${styles.corners}`}>
-          <Cart />
-        </div>
-        {/* <div className={`${styles.search} ${styles.corners}`}>Search</div> */}
-        <div className={`${styles.search} ${styles.corners}`} onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/>Search</div>
-        <div
-          className={`${styles.switch} ${styles.corners}`}
-          onClick={setArray}
-        >
-          <CategorySwitch />
-        </div>
-        <div className={styles.carousel}>
-          <DisplayCardContainer
-            gearList={gearArray[currentBrand]}
-            currentBrand={currentBrand}
-            setCurrentBrand={setCurrentBrand}
-          />
-        </div>
+    <div
+      style={
+        isSearchTabOpen
+          ? { filter: "blur(10px)", backgroundColor: `#${currentBrand}` }
+          : { backgroundColor: `#${currentBrand}` }
+      }
+      className={`${styles.homeWrapper}`}
+    >
+      <div className={`${styles.previousBrand} ${styles.brandButton}`} onClick={goToPrevBrand}>
+        ▲{previousBrand}▲
       </div>
-    </>
+      <div className={`${styles.nextBrand} ${styles.brandButton}`} onClick={goToNextBrand}>
+        ▼{nextBrand}▼
+      </div>
+      <div className={`${styles.logo} ${styles.corners}`}>
+        <BrandLogo currentBrand={currentBrand} />
+      </div>
+      <div className={`${styles.cart} ${styles.corners}`}>
+        <Cart />
+      </div>
+      {/* <div className={`${styles.search} ${styles.corners}`}>Search</div> */}
+      <div className={`${styles.search} ${styles.corners}`} onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/>Search</div>
+      <div
+        className={`${styles.switch} ${styles.corners}`}
+        onClick={setArray}
+      >
+        <CategorySwitch />
+      </div>
+      <div className={styles.carousel}>
+        <DisplayCardContainer
+          gearList={gearArray[currentBrand]}
+          currentBrand={currentBrand}
+          setCurrentBrand={setCurrentBrand}
+        />
+      </div>
+    </div>
   );
 }
 
