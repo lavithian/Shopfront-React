@@ -10,7 +10,6 @@
 }
 
 .corners {
-  background-color: var(--colour-black);
   display: flex;
   position: absolute;
   align-items: center;
@@ -20,12 +19,8 @@
   z-index: 10;
   color: var(--colour-white);
   font-family: 'Splatoon';
+  background-color: var(--colour-purple);
 }
-
-
-/* .carousel {
-  width:100%;
-} */
 
 .logo {
   top: 0;

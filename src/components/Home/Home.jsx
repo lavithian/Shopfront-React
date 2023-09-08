@@ -6,6 +6,7 @@ import DisplayCardContainer from "../DisplayCardContainer";
 import BrandLogo from "../BrandLogo";
 import Cart from "../Cart";
 import CategorySwitch from "../CategorySwitch";
+import searchIcon from "../../data/images/search.svg"
 
 function Home() {
   const {
@@ -26,18 +27,19 @@ function Home() {
     getBrandId,
     goToNextBrand,
     goToPrevBrand,
+    getBrandImage,
+    nextCategory
   } = useHome();
 
-  useEffect(() => {
-    const maxId = brandList.length
-    const num = getBrandId(currentBrand)
-    const nextID = num + 1 > maxId ? 1 : num + 1
-    const prevID = num - 1 < 1 ? maxId : num - 1;
-    const nextBrandName = modifyBrandName(getBrandNameById(nextID));
-    const prevBrandName = modifyBrandName(getBrandNameById(prevID));
-    setNextBrand(nextBrandName)
-    setPreviousBrand(prevBrandName)
-  }, [currentBrand])
+
+  const searchIconStyle = {
+    backgroundImage: `url(${searchIcon})`,
+    backgroundRepeat: "no-repeat",
+    backgroundPosition: "center",
+    backgroundSize: "cover",
+    width: "45%",
+    height: "100%",
+  }
 
   return (
     <div
@@ -55,18 +57,20 @@ function Home() {
         ▼{nextBrand}▼
       </div>
       <div className={`${styles.logo} ${styles.corners}`}>
-        <BrandLogo currentBrand={currentBrand} />
+        <BrandLogo image={getBrandImage(currentBrand)}/>
       </div>
       <div className={`${styles.cart} ${styles.corners}`}>
         <Cart />
       </div>
       {/* <div className={`${styles.search} ${styles.corners}`}>Search</div> */}
-      <div className={`${styles.search} ${styles.corners}`} onClick={(e) => closeSearchTab(e)}><SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/>Search</div>
+      <div className={`${styles.search} ${styles.corners}`} onClick={(e) => closeSearchTab(e)} >
+        <SearchTab isSearchTabOpen={isSearchTabOpen} setIsSearchTabOpen={setIsSearchTabOpen}/><div style={searchIconStyle}/>
+      </div>
       <div
         className={`${styles.switch} ${styles.corners}`}
         onClick={setArray}
       >
-        <CategorySwitch />
+        <CategorySwitch nextCategory={nextCategory} />
       </div>
       <div className={styles.carousel}>
         <DisplayCardContainer

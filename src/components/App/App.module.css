@@ -4,9 +4,11 @@
 }
 
 :root {
-  --colour-black: #000000;
-  --colour-white: #FFFFFF;
-  --colour-red: #FF3A20;
-  --colour-purple: #731DD8;
-  --colour-grey: #858786;
+  --colour-black: #232323;
+  --colour-white: #fff;
+  --colour-red: #FE4F30;
+  --colour-purple2: #AA6AFE;
+  --colour-purple: #614486;
+  --colour-green: #CCFF64;
+  --colour-green2: #BEFE6A;
 }

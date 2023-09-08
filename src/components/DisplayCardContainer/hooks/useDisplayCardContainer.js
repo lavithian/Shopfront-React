@@ -58,7 +58,7 @@ function useDisplayCardContainer () {
     }
     // Return a cleanup function if needed
     return () => {
-      console.log('Component will unmount');
+      // console.log('Component will unmount');
     };
   }, []);
 

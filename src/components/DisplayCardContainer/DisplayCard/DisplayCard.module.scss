@@ -1,3 +1,5 @@
+@import "../../App/App.module.css";
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-top: 0;
   margin-bottom: 0;
@@ -18,9 +20,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   height:100%;
 
   /* margin: auto; */
-  background-color: #f0eBD8;
+  // background-color: var(--colour-red);
   border-radius: 20px;
   position: relative;
+  color: var(--colour-purple);
+
 }
 
 .displayCategory {
@@ -30,6 +34,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   line-height: 100%;
   margin-left: 0.9rem;
   margin-top: 0.5rem;
+  color: var(--colour-white);
 }
 
 .displayName {
@@ -37,6 +42,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: 'Splatoon';
   text-align: center;
   font-size: 1.3rem;
+  color: var(--colour-white);
 }
 
 .displayBrand {
@@ -45,33 +51,59 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-right: 2.5rem;
   font-size: 0.8rem;
   font-family: Arial, Helvetica, sans-serif;
+  color: var(--colour-white);
 }
 
 .displayImage {
   grid-area: image;
-  align-self: center;
-  justify-self: center;
-
+  display: flex;
+  // align-self: center;
+  // justify-self: center;
+  justify-content: center;
+  align-items: center;
+  img {
+    background-color: var(--colour-white);
+    border-radius: 35px;
+    padding: 0.1rem 1rem;
+  }
 }
 
 .displayPrice {
-  background-color: red;
+  background-color: var(--colour-red);
   // border-radius: 10px;
   width: 8.5rem;
   // height: 48px;
   height: 3rem;
   // font-size: 24px;
-  font-size: 1.5rem;
   text-align: center;
   align-self: end;
-  font-family: 'Splatoon';
   position: absolute;
-  bottom: 6rem;
+  bottom: 10rem;
   right: 0.7rem;
+  border-radius: 10px;
+  h2 {
+    font-family: 'Splatoon';
+    font-size: 1.5rem;
+
+  }
+  border: 1px solid magenta;
 }
 
 .displayButton {
   grid-area: button;
+}
+
+.buyButton {
+  position: absolute;
+  bottom: 5rem;
+  right: 0.7rem;
+  font-family: 'Splatoon';
+  // background-color: var(--colour-green);
+  border-radius: 10px;
+  padding: 0 1rem;
+  h1 {
+    color: var(--colour-black);
+  }
 }
 
 /* The switch - the box around the slider */

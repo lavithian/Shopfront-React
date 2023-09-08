@@ -1,8 +1,11 @@
+@import "../App/App.module.css";
+
 .container {
   position: absolute;
   width: 100vw;
   height: 100vh;
   /* background-color: aqua; */
+  background-color: var(--colour-black);
 }
 
 .carousel {

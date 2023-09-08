@@ -4,13 +4,15 @@ import { useSearchParams } from "react-router-dom";
 import styles from "./SearchTab.module.scss";
 import useSearchTab from "./hooks/useSearchTab";
 
+
+
 function SearchTab({ isSearchTabOpen: isOpen, setIsSearchTabOpen: setIsOpen, children }) {
   // useSearchParams
 
 
   return ReactDOM.createPortal (
     <>
-      <div className={isOpen ? styles.overlay : ""} />
+      <div className={isOpen ? styles.overlay : ""}/>
       <div className={styles.searchTab} style={isOpen ? {left: 0} : {left: "-40vw"}} onClick={() => setIsOpen(true)} id="searchtab">
         Search Bar
         <div className={styles.searchBar}>
